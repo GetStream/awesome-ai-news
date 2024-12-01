@@ -1,21 +1,7 @@
-# SwiftExtend
-Simple but useful Swift/SwiftUI extensions for your next projects
+# Awesome AI News For Developers
 
-All coming soon!!!
+AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
-## GradientNames
+## December 2024
+
 ---
-
-## ColorNames
----
-
-## CornerAdjust
----
-
-## HexInsert
----
-
-## SymbolAnimate
----
-
-
