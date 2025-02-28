@@ -15,7 +15,6 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Alibaba Wan 2.1 AI video](https://x.com/Alibaba_Wan/status/1894391929024152055)
 - [Perplexity Voice Mode with Grok 3](https://x.com/perplexity_ai/status/1894788583770509505)
 - [Amazon Alexa+](https://x.com/amazon/status/1894796967894479141)
-- [Hume AI new LLM built for TTS](https://www.hume.ai/blog/hume-ai-new-llm-built-for-tts)
 - [Mistral Le Chat app](https://chat.mistral.ai/chat)
 - [Anthropic Jailbreaks](https://www.anthropic.com/research/constitutional-classifiers)
 - [Pika adds Pikaddition](https://x.com/pika_labs/status/1887547042622562646)
