@@ -4,6 +4,18 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## February 2025
 
+- [OpenAI GPT 4.5](https://openai.com/index/introducing-gpt-4-5/)
+- [Claude 3.7 Sonnet and Claude Code](https://www.anthropic.com/news/claude-3-7-sonnet)
+- [Google Gemini Code Assist](https://blog.google/technology/developers/gemini-code-assist-free/)
+- [Grok 3 Beta](https://x.ai/blog/grok-3)
+- [Hugging Face FastRTC](https://fastrtc.org/)
+- [Microsoft Phi-4 Multimodal](https://azure.microsoft.com/en-us/blog/empowering-innovation-the-next-generation-of-the-phi-family/)
+- [ElevenLabs Scribe](https://elevenlabs.io/blog/meet-scribe)
+- [Qwen Chat: Thinking, Web Search, Artifacts, Video](https://chat.qwenlm.ai/)
+- [Alibaba Wan 2.1 AI video](https://x.com/Alibaba_Wan/status/1894391929024152055)
+- [Perplexity Voice Mode with Grok 3](https://x.com/perplexity_ai/status/1894788583770509505)
+- [Amazon Alexa+](https://x.com/amazon/status/1894796967894479141)
+- [Hume AI new LLM built for TTS](https://www.hume.ai/blog/hume-ai-new-llm-built-for-tts)
 - [Mistral Le Chat app](https://chat.mistral.ai/chat)
 - [Anthropic Jailbreaks](https://www.anthropic.com/research/constitutional-classifiers)
 - [Pika adds Pikaddition](https://x.com/pika_labs/status/1887547042622562646)
@@ -17,8 +29,9 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ### January 2025
 
-- [DeepSeek R1](https://www.deepseek.com)
+- [DeepSeek R1 and Chat](https://www.deepseek.com)
 - [DeepSeek Janus](https://github.com/deepseek-ai/Janus)
+- [Trae AI Code Editor](https://www.trae.ai/home)
 
 ## December 2024
 
@@ -40,7 +53,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Ollama Structured Outputs](https://ollama.com/blog/structured-outputs)
 - [Llama 3.3](https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_3)
 - [ElevenLabs: Build AI Agents That Speak](https://elevenlabs.io/conversational-ai)
-- [PydanticAI](https://ai.pydantic.dev/) - Agent Framework / shim to use Pydantic with LLMs. It is a Python framework for building agentic AI applications.
+- [PydanticAI](https://ai.pydantic.dev/)
 - [Introducing Amazon Nova Models](https://aws.amazon.com/ai/generative-ai/?gclid=Cj0KCQiA3sq6BhD2ARIsAJ8MRwW_cnH-GVthnqFmh1Wg1rSpSjV6z0eWvu51SP1QSGt-Y1r8kPSwzg4aAvr6EALw_wcB&trk=5052a323-ec6a-44c6-8dc7-f1197cd3a30e&sc_channel=ps&ef_id=Cj0KCQiA3sq6BhD2ARIsAJ8MRwW_cnH-GVthnqFmh1Wg1rSpSjV6z0eWvu51SP1QSGt-Y1r8kPSwzg4aAvr6EALw_wcB:G:s&s_kwcid=AL!4422!3!686122498300!p!!g!!aws%20generative%20ai!20894977914!155892715886)
 - [DeepSeek V3](https://www.deepseek.com)
 
