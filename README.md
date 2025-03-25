@@ -2,6 +2,28 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## March 2025
+
+- [OpenAI Image Generation in ChatGPT](https://openai.com/index/introducing-4o-image-generation/)
+- [OpenAI Response API and Agent SDK](https://openai.com/index/new-tools-for-building-agents/)
+- [OpenAI.FM](https://www.openai.fm/)
+- [Gemini 2.5](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking)
+- [DeepSeek-V3-0324](https://huggingface.co/deepseek-ai/DeepSeek-V3-0324)
+- [Manus](https://manus.im/)
+- [Vapi: Voice AI Agents for Developers](https://vapi.ai/)
+- [Gemma 3](https://blog.google/technology/developers/gemma-3/)
+- [QwQ-32B Reasoning Model](https://qwenlm.github.io/blog/qwq-32b/)
+- [Introducing LMStudio SDK](https://lmstudio.ai/blog/introducing-lmstudio-sdk)
+- [FastHTML and MonsterUI](https://www.drewecherd.com/post/hello-fasthtml-monsterui)
+- [Mistral Small 3.1](https://mistral.ai/news/mistral-small-3-1)
+- [Claude Web Search](https://www.anthropic.com/news/web-search)
+- [Krea AI Video Training](https://x.com/krea_ai/status/1902722055759671505)
+- [NotebookLM Mind Maps](https://x.com/tokumin/status/1902251588925915429)
+- [Hunyuan 3D Generation AI](https://huggingface.co/tencent/Hunyuan3D-2mv)
+- [Stability AI New Virtual Camera](https://x.com/StabilityAI/status/1902033312379732171)
+- [Gemini Canvas & Audio Overview](https://gemini.google.com/canvas)
+- ***
+
 ## February 2025
 
 - [OpenAI GPT 4.5](https://openai.com/index/introducing-gpt-4-5/)
@@ -31,6 +53,8 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [DeepSeek R1 and Chat](https://www.deepseek.com)
 - [DeepSeek Janus](https://github.com/deepseek-ai/Janus)
 - [Trae AI Code Editor](https://www.trae.ai/home)
+
+---
 
 ## December 2024
 
