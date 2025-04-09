@@ -2,6 +2,14 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## April 2025
+
+- [Firebase Studio](https://firebase.studio/)
+- [Google Agent Development Kit](https://google.github.io/adk-docs/)
+- [Gemini Cookbook](https://github.com/google-gemini/cookbook)
+- [Vercel AI Chat SDK](https://vercel.com/blog/introducing-chat-sdk), [Get started](https://chat-sdk.dev/)
+- [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+
 ## March 2025
 
 - [OpenAI Image Generation in ChatGPT](https://openai.com/index/introducing-4o-image-generation/)
