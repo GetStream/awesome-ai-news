@@ -4,7 +4,11 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## April 2025
 
+- [Introducing GPT-4.1 in the API]([https://firebase.studio/](https://openai.com/index/gpt-4-1/))
+- [AI in Enterprise: OpenAI](https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf)
+- [OpenAI: A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
 - [Firebase Studio](https://firebase.studio/)
+- [Identifying and Scaling AI Use Cases]([https://firebase.studio/](https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf))
 - [Google Agent Development Kit](https://google.github.io/adk-docs/)
 - [Gemini Cookbook](https://github.com/google-gemini/cookbook)
 - [Vercel AI Chat SDK](https://vercel.com/blog/introducing-chat-sdk), [Get started](https://chat-sdk.dev/)
