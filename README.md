@@ -4,6 +4,8 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## April 2025
 
+- [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
+- [OpenAI Codex CLI](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)
 - [Introducing GPT-4.1 in the API](https://openai.com/index/gpt-4-1/)
 - [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 - [AI in Enterprise: OpenAI](https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf)
