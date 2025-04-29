@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## April 2025
 
+- [Introducing Qwen3](https://qwenlm.github.io/blog/qwen3/)
 - [Llama API](https://llama.developer.meta.com/docs/overview/)
 - [OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 - [OpenAI Codex CLI](https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started)
