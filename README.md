@@ -2,6 +2,15 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## May 2025
+
+- [OpenAI Codex](https://openai.com/index/introducing-codex/)
+- [Anthropic API: Web Search Tool](https://www.anthropic.com/news/web-search-api)
+- [Gemini-powered coding agent](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+- [Windsurf SWE-1 model](https://windsurf.com/blog/windsurf-wave-9-swe-1)
+- [Elevenlabs Soundboard](https://elevenlabs.io/blog/how-we-created-a-soundboard-using-elevenlabs-sfx-api)
+  
+
 ## April 2025
 
 - [Introducing Qwen3](https://qwenlm.github.io/blog/qwen3/)
