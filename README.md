@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## May 2025
 
+- [GitHub Copilot is now open-source](https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor)
 - [OpenAI Codex](https://openai.com/index/introducing-codex/)
 - [Anthropic API: Web Search Tool](https://www.anthropic.com/news/web-search-api)
 - [Gemini-powered coding agent](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
