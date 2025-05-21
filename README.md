@@ -4,6 +4,9 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## May 2025
 
+- [Stich by Google: Web/mobile UI vibe coding](https://stitch.withgoogle.com/)
+- [Anthropic Code with Claude live stream](https://x.com/AnthropicAI/status/1925239440420831516)
+- [Jony/Sam AI-Powered Computers](https://x.com/sama/status/1925242282523103408)
 - [Jules Agentic Coding](https://jules.google/)
 - [GitHub Copilot is now open-source](https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor)
 - [OpenAI Codex](https://openai.com/index/introducing-codex/)
