@@ -2,6 +2,14 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## June 2025
+
+- [WWDC25: Use ChatGPT in Xcode 26](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
+- [WWCD25: Apple Foundation Models Framework](https://developer.apple.com/videos/play/wwdc2025/286/)
+- [OpenAI o3 Pro](https://platform.openai.com/docs/models/o3-pro)
+- [WWDC25: MXL for Apple Silicon](https://developer.apple.com/videos/play/wwdc2025/315/)
+
+
 ## May 2025
 
 - [Stich by Google: Web/mobile UI vibe coding](https://stitch.withgoogle.com/)
