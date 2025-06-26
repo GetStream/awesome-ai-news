@@ -4,6 +4,9 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## June 2025
 
+- [Andrej Karpathy: Software Is Changing](https://youtu.be/LCEmiRjPEtQ?si=h6v4WsI9wbYAAurd)
+- [Warp 2.0 Agentic Dev](https://www.warp.dev/blog/reimagining-coding-agentic-development-environment)
+- [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/), [Repo](https://github.com/google-gemini/gemini-cli)
 - [WWDC25: Use ChatGPT in Xcode 26](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
 - [WWCD25: Apple Foundation Models Framework](https://developer.apple.com/videos/play/wwdc2025/286/)
 - [OpenAI o3 Pro](https://platform.openai.com/docs/models/o3-pro)
