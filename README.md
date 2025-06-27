@@ -4,6 +4,8 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## June 2025
 
+- [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/)
+- [Imagen 4](https://developers.googleblog.com/en/imagen-4-now-available-in-the-gemini-api-and-google-ai-studio/): 
 - [Andrej Karpathy: Software Is Changing](https://youtu.be/LCEmiRjPEtQ?si=h6v4WsI9wbYAAurd)
 - [Warp 2.0 Agentic Dev](https://www.warp.dev/blog/reimagining-coding-agentic-development-environment)
 - [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/), [Repo](https://github.com/google-gemini/gemini-cli)
