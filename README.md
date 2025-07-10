@@ -2,6 +2,11 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## July 2025
+
+- [Grok 4](https://x.com/xai/status/1943158495588815072)
+- [Perplexity Comet](https://comet.perplexity.ai/)_
+
 ## June 2025
 
 - [Gemma 3n](https://deepmind.google/models/gemma/gemma-3n/)
