@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## July 2025
 
+- [Gemini Embedding in the API](https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/)
 - [Kimi 2](https://moonshotai.github.io/Kimi-K2/)
 - [Grok 4](https://x.com/xai/status/1943158495588815072)
 - [Perplexity Comet](https://comet.perplexity.ai/)
