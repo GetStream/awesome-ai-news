@@ -9,6 +9,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Kimi 2](https://moonshotai.github.io/Kimi-K2/)
 - [Grok 4](https://x.com/xai/status/1943158495588815072)
 - [Perplexity Comet](https://comet.perplexity.ai/)
+- [Mistral Voxtral: Speech Recognition models](https://x.com/MistralAI/status/1945130173751288311)
 
 ## June 2025
 
