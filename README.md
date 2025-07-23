@@ -4,6 +4,8 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## July 2025
 
+- [Introducing GhatGPT Agent](https://openai.com/index/introducing-chatgpt-agent/)
+- [Qwen3 Coder](https://github.com/QwenLM/Qwen3-Coder)
 - [Kiro: Amazon's Agentic IDE](https://x.com/ajassy/status/1944785963663966633), [Kiro.dev](https://kiro.dev/)
 - [Gemini Embedding in the API](https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/)
 - [Kimi 2](https://moonshotai.github.io/Kimi-K2/)
