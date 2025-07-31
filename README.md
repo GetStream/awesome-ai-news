@@ -4,6 +4,9 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## July 2025
 
+- [ChatGPT study mode](https://openai.com/index/chatgpt-study-mode/)
+- [GLM-4.5 model](https://z.ai/blog/glm-4.5): Reasoning, Coding, and Agentic model
+- [Ollama for Mac](https://x.com/ollama/status/1950670503376761133)
 - [Introducing GhatGPT Agent](https://openai.com/index/introducing-chatgpt-agent/)
 - [Qwen3 Coder](https://github.com/QwenLM/Qwen3-Coder)
 - [Kiro: Amazon's Agentic IDE](https://x.com/ajassy/status/1944785963663966633), [Kiro.dev](https://kiro.dev/)
@@ -11,6 +14,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Kimi 2](https://moonshotai.github.io/Kimi-K2/)
 - [Grok 4](https://x.com/xai/status/1943158495588815072)
 - [Perplexity Comet](https://comet.perplexity.ai/)
+- [Grok 4 in Zed IDE](https://x.com/zeddotdev/status/1945606082551763410)
 - [Mistral Voxtral: Speech Recognition models](https://x.com/MistralAI/status/1945130173751288311)
 
 ## June 2025
