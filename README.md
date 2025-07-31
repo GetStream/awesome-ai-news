@@ -11,7 +11,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Qwen3 Coder](https://github.com/QwenLM/Qwen3-Coder)
 - [Kiro: Amazon's Agentic IDE](https://x.com/ajassy/status/1944785963663966633), [Kiro.dev](https://kiro.dev/)
 - [Gemini Embedding in the API](https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/)
-- [Kimi 2](https://moonshotai.github.io/Kimi-K2/)
+- [Kimi K2](https://moonshotai.github.io/Kimi-K2/)
 - [Grok 4](https://x.com/xai/status/1943158495588815072)
 - [Perplexity Comet](https://comet.perplexity.ai/)
 - [Grok 4 in Zed IDE](https://x.com/zeddotdev/status/1945606082551763410)
