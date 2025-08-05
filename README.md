@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## August 2025
 
+- [Open models by OpenAI](https://openai.com/open-models/)
 - [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), [X post](https://x.com/GoogleDeepMind/status/1952732150928724043)
 - [Qwen Image](https://x.com/Alibaba_Qwen/status/1952398250121756992), [Blog](https://qwenlm.github.io/blog/qwen-image/)
 
