@@ -2,6 +2,11 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## August 2025
+
+- [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), [X post](https://x.com/GoogleDeepMind/status/1952732150928724043)
+- [Qwen Image](https://x.com/Alibaba_Qwen/status/1952398250121756992), [Blog](https://qwenlm.github.io/blog/qwen-image/)
+
 ## July 2025
 
 - [ChatGPT study mode](https://openai.com/index/chatgpt-study-mode/)
