@@ -6,7 +6,9 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 - [Open models by OpenAI](https://openai.com/open-models/)
 - [GPT-OSS Playground](https://www.gpt-oss.com/)
+- [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
 - [Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/), [X post](https://x.com/GoogleDeepMind/status/1952732150928724043)
+- [Gemini Storybook](https://gemini.google/overview/storybook/)
 - [Qwen Image](https://x.com/Alibaba_Qwen/status/1952398250121756992), [Blog](https://qwenlm.github.io/blog/qwen-image/)
 
 ## July 2025
