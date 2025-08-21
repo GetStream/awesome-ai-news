@@ -18,6 +18,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [DINOv3](https://ai.meta.com/dinov3/)
 - [Swift Agent](https://github.com/SwiftedMind/SwiftAgent): Swift SDK for building AI agents
 - [Eleven v3](https://elevenlabs.io/v3)
+- [DeepSeek V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1)
 
 ## July 2025
 
