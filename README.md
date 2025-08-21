@@ -19,6 +19,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Swift Agent](https://github.com/SwiftedMind/SwiftAgent): Swift SDK for building AI agents
 - [Eleven v3](https://elevenlabs.io/v3)
 - [DeepSeek V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1)
+- [Qoder: Agentic coding platform](https://qoder.com/)
 
 ## July 2025
 
