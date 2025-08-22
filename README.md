@@ -25,6 +25,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## July 2025
 
+- [Google Opal](https://opal.withgoogle.com/landing/): Build mini AI apps
 - [ChatGPT study mode](https://openai.com/index/chatgpt-study-mode/)
 - [GLM-4.5 model](https://z.ai/blog/glm-4.5): Reasoning, Coding, and Agentic model
 - [Ollama for Mac](https://x.com/ollama/status/1950670503376761133)
