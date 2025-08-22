@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## August 2025
 
+- [Agents.md](https://agents.md/)
 - [GPT 5](https://openai.com/gpt-5/)
 - [Cursor CLI](https://cursor.com/cli)
 - [Open models by OpenAI](https://openai.com/open-models/)
