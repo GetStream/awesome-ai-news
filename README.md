@@ -22,6 +22,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Eleven v3](https://elevenlabs.io/v3)
 - [DeepSeek V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1)
 - [Qoder: Agentic coding platform](https://qoder.com/)
+- [Fireplexity](https://github.com/firecrawl/fireplexity)
 
 ## July 2025
 
