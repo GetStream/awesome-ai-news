@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## August 2025
 
+- [Gemini 2.5 Flash Image Generation](https://x.com/GoogleDeepMind/status/1960341909555011867)
 - [VibeVoice](https://microsoft.github.io/VibeVoice/)
 - [Agents.md](https://agents.md/)
 - [GPT 5](https://openai.com/gpt-5/)
