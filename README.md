@@ -10,6 +10,8 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Agents.md](https://agents.md/)
 - [GPT 5](https://openai.com/gpt-5/)
 - [Cursor CLI](https://cursor.com/cli)
+- [Codex CLI in Cursor & VS Code](https://x.com/OpenAIDevs/status/1960809816039023029)
+- [Grok Code Fast 1](https://forum.cursor.com/t/grok-code-out-now-free-week/132063) in Cursor & [kilocode.ai](https://blog.kilocode.ai/p/grok-code-fast-get-this-frontier-ai-model-free)
 - [Open models by OpenAI](https://openai.com/open-models/)
 - [GPT-OSS Playground](https://www.gpt-oss.com/)
 - [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1)
