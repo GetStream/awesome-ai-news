@@ -5,6 +5,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 ## August 2025
 
 - Gemini 2.5 Flash Image Generation: [Blog](https://blog.google/products/gemini/updated-image-editing-model/), [X](https://x.com/GoogleDeepMind/status/1960341909555011867)
+- [Claude for Chrome](https://www.anthropic.com/news/claude-for-chrome)
 - [VibeVoice](https://microsoft.github.io/VibeVoice/)
 - [Agents.md](https://agents.md/)
 - [GPT 5](https://openai.com/gpt-5/)
@@ -22,6 +23,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [DINOv3](https://ai.meta.com/dinov3/)
 - [Swift Agent](https://github.com/SwiftedMind/SwiftAgent): Swift SDK for building AI agents
 - [Eleven v3](https://elevenlabs.io/v3)
+- [ElevenLabs Video-to-Music](https://elevenlabs.io/studio/video-to-music), [X post](https://x.com/elevenlabsio/status/1956406489356333225)
 - [DeepSeek V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1)
 - [Qoder: Agentic coding platform](https://qoder.com/)
 - [Fireplexity](https://github.com/firecrawl/fireplexity)
