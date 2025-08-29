@@ -4,7 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## August 2025
 
-- [Claude Sonnet 4 in Xcode](https://x.com/claudeai/status/1961122752577908788)
+- [Claude Sonnet 4 in Xcode 26 Beta 7](https://x.com/claudeai/status/1961122752577908788)
 - [GPT Realtime](https://openai.com/index/introducing-gpt-realtime/)
 - [Google vids.new](https://vids.new/)
 - Gemini 2.5 Flash Image Generation: [Blog](https://blog.google/products/gemini/updated-image-editing-model/), [X](https://x.com/GoogleDeepMind/status/1960341909555011867)
