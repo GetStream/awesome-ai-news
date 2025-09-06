@@ -2,6 +2,11 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## September 2025
+- [Kimi K2-0905 update](https://x.com/Kimi_Moonshot/status/1963802687230947698)
+- Google on-device AI: [EmbeddingGemma](https://developers.googleblog.com/en/introducing-embeddinggemma/)
+- [Qwen3-Max-Preview](https://x.com/Alibaba_Qwen/status/1963991502440562976)
+
 ## August 2025
 
 - [Claude Sonnet 4 in Xcode 26 Beta 7](https://x.com/claudeai/status/1961122752577908788)
