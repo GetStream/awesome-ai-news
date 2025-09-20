@@ -3,6 +3,11 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2025
+- [ElevenLabs Studio 3.0](https://x.com/elevenlabsio/status/1968344592740434188)
+- [Google GenKit Go 1.0](https://developers.googleblog.com/en/announcing-genkit-go-10-and-enhanced-ai-assisted-development)
+- [Stitch by Google](https://x.com/stitchbygoogle/status/1968374355890684179): New features
+- [Meta Ray-Ban](https://www.meta.com/en-gb/blog/meta-ray-ban-display-ai-glasses-connect-2025/)
+- [Gemini in Chrome](https://blog.google/products/chrome/new-ai-features-for-chrome)
 - [GPT-5-Codex](https://x.com/OpenAI/status/1967636903165038708), [Blog post](https://openai.com/index/introducing-upgrades-to-codex/): A version of GPT-5 further optimized for agentic coding in Codex
 - [GPT-5 now built-in in Xcode 26](https://x.com/OpenAIDevs/status/1967704919487729753)
 - [AgentScope](https://github.com/agentscope-ai/agentscope): Agent-oriented programming for building LLM apps
