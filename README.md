@@ -5,6 +5,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 ## September 2025
 - [Qwen3-TTS API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&url=2879134): [X post](https://x.com/Ali_TongyiLab/status/1970160304748437933)
 - [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni): Text, image, audio & video model. [X post](https://x.com/Alibaba_Qwen/status/1970181599133344172)
+- [OpenAI & NVIDIA partnership](https://x.com/gdb/status/1970173243350008201)
 - [ElevenLabs Studio 3.0](https://x.com/elevenlabsio/status/1968344592740434188)
 - [Google GenKit Go 1.0](https://developers.googleblog.com/en/announcing-genkit-go-10-and-enhanced-ai-assisted-development)
 - [Stitch by Google](https://x.com/stitchbygoogle/status/1968374355890684179): New features
