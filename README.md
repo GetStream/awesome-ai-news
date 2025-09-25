@@ -3,6 +3,10 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2025
+- [Kimi Ok Computer](https://x.com/Kimi_Moonshot/status/1971078467560276160): Agent mode for Kimi Chat
+- [Mooondream 3 Preview](https://moondream.ai/blog/moondream-3-preview)
+- [Meta Code World Model (CWM)](https://x.com/AIatMeta/status/1970963571753222319)
+- [Qwen3-VL](https://x.com/Ali_TongyiLab/status/1970665194390220864)
 - [Qwen3-TTS API](https://modelstudio.console.alibabacloud.com/?tab=doc#/doc/?type=model&url=2879134): [X post](https://x.com/Ali_TongyiLab/status/1970160304748437933)
 - [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni): Text, image, audio & video model. [X post](https://x.com/Alibaba_Qwen/status/1970181599133344172)
 - [Ollama Cloud Models](https://ollama.com/blog/cloud-models): Run larger models locally with fast, datacenter-grade hardware
