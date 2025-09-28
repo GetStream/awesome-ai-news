@@ -3,6 +3,12 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2025
+- [Gemini Robotics-ER 1.5](https://x.com/googleaidevs/status/1971243798375120982)
+- [GitHub Copilot CLI](https://x.com/github/status/1971295695853306059)
+- [Grok 4 Vision](https://x.com/elonmusk/status/1971472472718655974)
+- [OpenAI function calling update ](https://x.com/OpenAIDevs/status/1971618905941856495)
+- [Subagents in Claude Code](https://x.com/claudeai/status/1971666134492696749)
+- [ChatGPT Pulse](https://x.com/OpenAI/status/1971259652684878019)
 - [Kimi Ok Computer](https://x.com/Kimi_Moonshot/status/1971078467560276160): Agent mode for Kimi Chat
 - [Mooondream 3 Preview](https://moondream.ai/blog/moondream-3-preview)
 - [Meta Code World Model (CWM)](https://x.com/AIatMeta/status/1970963571753222319)
