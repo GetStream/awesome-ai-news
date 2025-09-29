@@ -3,7 +3,7 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2025
-- [Gemini Robotics-ER 1.5](https://x.com/googleaidevs/status/1971243798375120982), [Blog](https://developers.googleblog.com/en/building-the-next-generation-of-physical-agents-with-gemini-robotics-er-15/)
+- [Gemini Robotics-ER 1.5](https://x.com/googleaidevs/status/1971243798375120982), [Blog](https://developers.googleblog.com/en/building-the-next-generation-of-physical-agents-with-gemini-robotics-er-15/), [Research Paper](https://storage.googleapis.com/deepmind-media/gemini-robotics/Gemini-Robotics-1-5-Tech-Report.pdf)
 - [GitHub Copilot CLI](https://x.com/github/status/1971295695853306059)
 - [Grok 4 Vision](https://x.com/elonmusk/status/1971472472718655974)
 - [OpenAI function calling update ](https://x.com/OpenAIDevs/status/1971618905941856495)
