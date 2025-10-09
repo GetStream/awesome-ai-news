@@ -2,6 +2,11 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## October 2025
+[Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+[Apps in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
+[Apps SDK in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
+
 ## September 2025
 - [Claude Sonnet 4.5](https://x.com/alexalbert__/status/1972707077182394744)
 - OpenAI + Stripe [Agentic Commerce Protocol](https://x.com/OpenAI/status/1972708279043367238)
