@@ -4,7 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## October 2025
 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-- [Agent Builder](https://platform.openai.com/agent-builder)
+- [OpenAI Agent Builder](https://platform.openai.com/agent-builder)
 - [Apps in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
 - [Apps SDK in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
 - [Moondream 3 Preview on fal](https://x.com/fal/status/1976682702167228919)
