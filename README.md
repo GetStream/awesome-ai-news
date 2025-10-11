@@ -3,9 +3,17 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2025
-[Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
-[Apps in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
-[Apps SDK in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
+- [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
+- [Agent Builder](https://platform.openai.com/agent-builder)
+- [Apps in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
+- [Apps SDK in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
+- [Moondream 3 Preview on fal](https://x.com/fal/status/1976682702167228919)
+- [Grok Imagine](https://x.com/elonmusk/status/1975635595360956916)
+- [GPT-5 Pro in the API](https://x.com/OpenAIDevs/status/1975263724551479572)
+- [OpenAI DevDay 2025](https://x.com/edwinarbus/status/1975265332773466173)
+- [Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk)
+- [ElevenLabs Agent Workflow](https://x.com/elevenlabsio/status/1975191207149269214)
+- [OpenAI Sora 2](https://x.com/OpenAI/status/1973075422058623274)
 
 ## September 2025
 - [Claude Sonnet 4.5](https://x.com/alexalbert__/status/1972707077182394744)
