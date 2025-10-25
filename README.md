@@ -3,6 +3,8 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2025
+- [ChatGPT Atlas AI Browser](https://openai.com/index/introducing-chatgpt-atlas/)
+- [Gemini Vibe Coding in Google AI Studio](https://aistudio.google.com/vibe-code)
 - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
 - [Qwen3-VL in Ollama Cloud](https://ollama.com/blog/qwen3-vl)
 - [Gemini 2.5 Computer Use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/)
