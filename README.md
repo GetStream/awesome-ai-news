@@ -3,6 +3,9 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2025
+- [Cursor 2.0](https://cursor.com/blog/2-0): Redesigned Agentic UI
+- [MiniMax M2](https://www.minimax.io/news/minimax-m2): For Efficient Agentic Coding
+- [Neo](https://www.1x.tech/): Humanoid Robot
 - [ChatGPT Atlas AI Browser](https://openai.com/index/introducing-chatgpt-atlas/)
 - [Gemini Vibe Coding in Google AI Studio](https://aistudio.google.com/vibe-code)
 - [Claude Haiku 4.5](https://www.anthropic.com/news/claude-haiku-4-5)
