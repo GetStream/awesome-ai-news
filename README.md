@@ -2,6 +2,9 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## November 2025
+- [Kimi K2 Thinking](https://moonshotai.github.io/Kimi-K2/thinking.html)
+
 ## October 2025
 - [Cursor 2.0](https://cursor.com/blog/2-0): Redesigned Agentic UI
 - [MiniMax M2](https://www.minimax.io/news/minimax-m2): For Efficient Agentic Coding
