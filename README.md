@@ -4,6 +4,8 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## November 2025
 - [Kimi K2 Thinking](https://moonshotai.github.io/Kimi-K2/thinking.html)
+- [Gemini Built-In RAG](https://ai.google.dev/gemini-api/docs/file-search): File Search in the API
+- [ElevenLabs Scribe v2 Realtime](https://x.com/elevenlabsio/status/1988282248445976987?s=20): Speech-to-Text
 
 ## October 2025
 - [Cursor 2.0](https://cursor.com/blog/2-0): Redesigned Agentic UI
