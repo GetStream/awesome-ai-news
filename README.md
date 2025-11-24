@@ -3,6 +3,7 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## November 2025
+- [Claude 4.5 Opus](https://www.anthropic.com/news/claude-opus-4-5): World's best coding model
 - [Gemini 3](https://blog.google/products/gemini/gemini-3-collection/)
 - [Google Antigravity](https://antigravity.google/blog/introducing-google-antigravity): AI-Assisted IDE
 - [Grok 4.1](https://x.ai/news/grok-4-1)
