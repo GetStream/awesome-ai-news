@@ -2,6 +2,9 @@
 
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
+## December 2025
+- [DeepSeek-V3.2](https://x.com/deepseek_ai/status/1995452641430651132?s=20)
+
 ## November 2025
 - [Claude 4.5 Opus](https://www.anthropic.com/news/claude-opus-4-5): World's best coding model
 - [Gemini 3](https://blog.google/products/gemini/gemini-3-collection/)
