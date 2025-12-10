@@ -3,9 +3,11 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## December 2025
+- [Devstral 2](https://mistral.ai/news/devstral-2-vibe-cli): Mistral Vibe CLI
 - [DeepSeek-V3.2](https://x.com/deepseek_ai/status/1995452641430651132?s=20)
 - [Mistral 3](https://mistral.ai/news/mistral-3)
 - [Qwen3-TTS](https://qwen.ai/blog?id=qwen3-tts-1128)
+- [VoxCPM Text-to-Speech](https://x.com/OpenBMB/status/1998377261859582304?s=20)
 
 ## November 2025
 - [Claude 4.5 Opus](https://www.anthropic.com/news/claude-opus-4-5): World's best coding model
