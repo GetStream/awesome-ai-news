@@ -3,9 +3,10 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## December 2025
+- [Build iPhone apps on iPhone](https://www.bitrig.com/)
 - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/), [X post](https://x.com/sama/status/1999185784012947900?s=20)
 - [Gemini Text-to-Speech models](https://blog.google/technology/developers/gemini-2-5-text-to-speech/)
-- [Design directly in Cursor](https://x.com/cursor_ai/status/1999147953609736464?s=20)
+- [Visual editor for Cursor Browser](https://cursor.com/blog/browser-visual-editor), [X post](https://x.com/cursor_ai/status/1999147953609736464?s=20)
 - [Agentic AI Foundation](https://openai.com/index/agentic-ai-foundation/): Anthropic + OpenAI
 - [Devstral 2](https://mistral.ai/news/devstral-2-vibe-cli) and Mistral Vibe CLI
 - [DeepSeek-V3.2](https://x.com/deepseek_ai/status/1995452641430651132?s=20)
