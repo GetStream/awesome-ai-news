@@ -3,6 +3,7 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## December 2025
+- [Gemini Interactions API](https://blog.google/technology/developers/interactions-api/)
 - [Build iPhone apps on iPhone](https://www.bitrig.com/)
 - [GPT-5.2](https://openai.com/index/introducing-gpt-5-2/), [X post](https://x.com/sama/status/1999185784012947900?s=20)
 - [Gemini Text-to-Speech models](https://blog.google/technology/developers/gemini-2-5-text-to-speech/)
