@@ -3,9 +3,12 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## December 2025
+- [Grok Voice Agent API](https://x.com/xai/status/2001385958147752255?s=20): Realtime [Speech-to-Speech](https://x.ai/news/grok-voice-agent-api)
 - [Gemini 3 Flash](https://blog.google/products/gemini/gemini-3-flash/)
+- [Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
 - [Molmo 2](https://allenai.org/blog/molmo2): Video understanding AI model
 - [gpt-image-1.5](https://openai.com/index/new-chatgpt-images-is-here/)
+- [Zoom Federated AI](https://www.zoom.com/en/blog/humanitys-last-exam-zoom-ai-breakthrough/)
 - [SAM Audio](https://ai.meta.com/blog/sam-audio/): Multimodal Model for Audio Separation
 - [Qwen Code v0.5.0](https://x.com/Alibaba_Qwen/status/2000556828690624685?s=20)
 - [Google Code Wiki](https://developers.googleblog.com/en/introducing-code-wiki-accelerating-your-code-understanding/): Auto-generate Architectural diagrams for code
