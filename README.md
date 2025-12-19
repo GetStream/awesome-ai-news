@@ -6,6 +6,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [Grok Voice Agent API](https://x.com/xai/status/2001385958147752255?s=20): Realtime [Speech-to-Speech](https://x.ai/news/grok-voice-agent-api)
 - [Gemini 3 Flash](https://blog.google/products/gemini/gemini-3-flash/)
 - [Introducing GPT-5.2-Codex](https://openai.com/index/introducing-gpt-5-2-codex/)
+- [Qwen Image Layered](https://qwen.ai/blog?id=qwen-image-layered)
 - [Molmo 2](https://allenai.org/blog/molmo2): Video understanding AI model
 - [gpt-image-1.5](https://openai.com/index/new-chatgpt-images-is-here/)
 - [Zoom Federated AI](https://www.zoom.com/en/blog/humanitys-last-exam-zoom-ai-breakthrough/)
