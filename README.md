@@ -3,6 +3,7 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## December 2025
+- [Manus joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
 - [Minimax 2.1](https://www.minimax.io/news/minimax-m21): Real-world agentic coding
 - [GLM-4.7](https://z.ai/blog/glm-4.7): Advanced AI coding
 - [Grok Voice Agent API](https://x.com/xai/status/2001385958147752255?s=20): Realtime [Speech-to-Speech](https://x.ai/news/grok-voice-agent-api)
