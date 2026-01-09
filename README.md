@@ -7,6 +7,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 - [LTX-2 Model](https://ltx.io/model): Best open-source multimodal AI video generation
 - [ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 - [NVIDIA New Open Models](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
+- [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model
 
 ## December 2025
 - [Manus joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
