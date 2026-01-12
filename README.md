@@ -4,11 +4,13 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## January 2026
 - [Advancing Claude](https://www.anthropic.com/news/healthcare-life-sciences): Healthcare and the life sciences
+- [UCP](https://developers.google.com/merchant/ucp): Universal Commerce Protocol on Google
 - [NVIDIA Alpamayo](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/): Reason-driven AI model for autonomous vehicles
 - [LTX-2 Model](https://ltx.io/model): Best open-source multimodal AI video generation
 - [ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 - [NVIDIA New Open Models](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
 - [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model
+- [FlowDeck](https://flowdeck.studio/): Build and ship SwiftUI apps without leaving Cursor
 
 ## December 2025
 - [Manus joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
