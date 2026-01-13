@@ -3,7 +3,7 @@
 AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
-- [Anthropic Cowork](https://x.com/claudeai/status/2010805682434666759?s=20)
+- [Anthropic Cowork](https://x.com/claudeai/status/2010805682434666759?s=20): Claude Code for non-technical tasks
 - [Advancing Claude](https://www.anthropic.com/news/healthcare-life-sciences): Healthcare and the life sciences
 - [UCP](https://developers.google.com/merchant/ucp): Universal Commerce Protocol on Google
 - [NVIDIA Alpamayo](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/): Reason-driven AI model for autonomous vehicles
