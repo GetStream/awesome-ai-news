@@ -4,6 +4,7 @@ AI is rapidly changing faster than developers can keep up with. This repo is a m
 
 ## January 2026
 - [Anthropic Cowork](https://x.com/claudeai/status/2010805682434666759?s=20): Claude Code for non-technical tasks
+- [Kyutai Pocket TTS](https://x.com/kyutai_labs/status/2011047335892303875?s=20): A high quality [TTS](https://kyutai.org/blog/2026-01-13-pocket-tts) that gives your CPU a voice
 - [Advancing Claude](https://www.anthropic.com/news/healthcare-life-sciences): Healthcare and the life sciences
 - [UCP](https://developers.google.com/merchant/ucp): Universal Commerce Protocol on Google
 - [NVIDIA Alpamayo](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/): Reason-driven AI model for autonomous vehicles
