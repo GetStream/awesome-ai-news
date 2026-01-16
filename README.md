@@ -1,8 +1,10 @@
 # Awesome AI News For Developers
 
-AI is rapidly changing faster than developers can keep up with. This repo is a monthly collection of AI news and resources for developers.
+AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
+- [ChatGPT Go](https://openai.com/index/introducing-chatgpt-go/): Low-cost ChatGPT subscription
+- [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/): A new suite of open translation models
 - [openresponses.org](https://www.openresponses.org/): An open-source spec for building multi-provider LLM interfaces. [X post](https://x.com/OpenAIDevs/status/2011862984595795974?s=20)
 - [GPT-5.2 Codex in OpenAI API](https://platform.openai.com/docs/models/gpt-5.2-codex): In [GitHub Copilot](https://github.blog/changelog/2026-01-14-gpt-5-2-codex-is-now-generally-available-in-github-copilot/), [Cursor](https://x.com/cursor_ai/status/2011500027945033904?s=20), [Warp](https://x.com/warpdotdev/status/2011506197279732023?s=20)
 - [The FreeMoCap project](https://github.com/freemocap/freemocap): [X post](https://x.com/freemocap/status/2010845786007875659?s=20). A free [motion capture](https://freemocap.org/) for everyone
