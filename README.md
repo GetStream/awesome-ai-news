@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
+- [Blackbox CLI](https://x.com/blackboxai/status/2012386609845727437?s=20): Run Claude Code, Codex, Gemini CLI, + others in a single CLI
 - [ChatGPT Go](https://openai.com/index/introducing-chatgpt-go/): Low-cost ChatGPT subscription
 - [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/): A new suite of open translation models
 - [openresponses.org](https://www.openresponses.org/): An open-source spec for building multi-provider LLM interfaces. [X post](https://x.com/OpenAIDevs/status/2011862984595795974?s=20)
