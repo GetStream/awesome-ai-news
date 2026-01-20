@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
+- [Heartmula](https://github.com/HeartMuLa/heartlib): Local and open-source AI music generator. [Tutorial](https://youtu.be/54YB-hjZDR4?si=9Kce4lVWq4eBk3mf). Read the research [paper](https://arxiv.org/pdf/2601.10547). 
 - [Blackbox CLI](https://x.com/blackboxai/status/2012386609845727437?s=20): Run Claude Code, Codex, Gemini CLI, + others in a single CLI
 - [ChatGPT Go](https://openai.com/index/introducing-chatgpt-go/): Low-cost ChatGPT subscription
 - [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/): A new suite of open translation models
