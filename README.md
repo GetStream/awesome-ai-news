@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
+- [GLM-4.7-Flash](https://x.com/Zai_org/status/2013261304060866758?s=20): Local coding and agentic assistant
 - [Heartmula](https://github.com/HeartMuLa/heartlib): Local and open-source AI music generator. [Tutorial](https://youtu.be/54YB-hjZDR4?si=9Kce4lVWq4eBk3mf). Read the research [paper](https://arxiv.org/pdf/2601.10547). 
 - [Blackbox CLI](https://x.com/blackboxai/status/2012386609845727437?s=20): Run Claude Code, Codex, Gemini CLI, + others in a single CLI
 - [ChatGPT Go](https://openai.com/index/introducing-chatgpt-go/): Low-cost ChatGPT subscription
@@ -20,7 +21,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [NVIDIA New Open Models](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
 - [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model
 - [FlowDeck](https://flowdeck.studio/): Build and ship SwiftUI apps without leaving Cursor
-- [GLM-4.7](https://docs.z.ai/guides/llm/glm-4.7): The open-source coding king
+
 
 ## December 2025
 - [Manus joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
