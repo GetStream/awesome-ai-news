@@ -20,6 +20,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [NVIDIA New Open Models](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
 - [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model
 - [FlowDeck](https://flowdeck.studio/): Build and ship SwiftUI apps without leaving Cursor
+- [GLM-4.7](https://docs.z.ai/guides/llm/glm-4.7): The open-source coding king
 
 ## December 2025
 - [Manus joins Meta](https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation)
