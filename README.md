@@ -3,7 +3,10 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
-- [RalphUI](https://ralph-tui.com/docs/getting-started/introduction): An AI Agent Loop Orchestrator
+- [Ollama Image Generation:](https://ollama.com/blog/image-generation)
+- [Ollama + Claude Code](https://ollama.com/blog/claude): Run Claude Code locally with open-source models
+- [Ollama + OpenAI Codex](https://ollama.com/blog/codex): Run Codex locally with open-source models
+- [RalphTUI](https://ralph-tui.com/): An AI Agent Loop Orchestrator
 - [Chroma 1.0](https://x.com/flashlabsdotai/status/2013993446047158550?s=20): Open-source real-time speech-to-speech model. [Quick start](https://cookbook.sglang.io/docs/autoregressive/FlashLabs/Chroma1.0)
 - [GLM-4.7-Flash](https://x.com/Zai_org/status/2013261304060866758?s=20): Local coding and agentic assistant
 - [Heartmula](https://github.com/HeartMuLa/heartlib): Local and open-source AI music generator. [Tutorial](https://youtu.be/54YB-hjZDR4?si=9Kce4lVWq4eBk3mf). Read the research [paper](https://arxiv.org/pdf/2601.10547). 
