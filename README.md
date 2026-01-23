@@ -3,7 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
-- [Ollama Image Generation:](https://ollama.com/blog/image-generation)
+- [Ollama Image Generation:](https://ollama.com/blog/image-generation): Generate images on macOS & Windows
 - [Ollama + Claude Code](https://ollama.com/blog/claude): Run Claude Code locally with open-source models
 - [Ollama + OpenAI Codex](https://ollama.com/blog/codex): Run Codex locally with open-source models
 - [RalphTUI](https://ralph-tui.com/): An AI Agent Loop Orchestrator
