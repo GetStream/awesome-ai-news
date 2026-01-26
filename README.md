@@ -3,29 +3,32 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
-- [Ollama Image Generation:](https://ollama.com/blog/image-generation): Generate images on macOS & Windows
-- [Ollama + Claude Code](https://ollama.com/blog/claude): Run Claude Code locally with open-source models
-- [Ollama + OpenAI Codex](https://ollama.com/blog/codex): Run Codex locally with open-source models
-- [RalphTUI](https://ralph-tui.com/): An AI Agent Loop Orchestrator
-- [Chroma 1.0](https://x.com/flashlabsdotai/status/2013993446047158550?s=20): Open-source real-time speech-to-speech model. [Quick start](https://cookbook.sglang.io/docs/autoregressive/FlashLabs/Chroma1.0)
-- [GLM-4.7-Flash](https://x.com/Zai_org/status/2013261304060866758?s=20): Local coding and agentic assistant
+- [NVIDIA PersonaPlex](https://research.nvidia.com/labs/adlr/personaplex/): The most Natural speech-to-speech conversational AI.
+- [Ollama Launch](https://ollama.com/blog/launch): A new Ollama command that sets up and runs your favorite coding tools like Claude Code, OpenCode, and Codex.
+- [Clawdbot](https://clawd.bot/): The AI that does everything.
+- [Ollama Image Generation:](https://ollama.com/blog/image-generation): Generate images on macOS & Windows.
+- [Ollama + Claude Code](https://ollama.com/blog/claude): Run Claude Code locally with open-source models.
+- [Ollama + OpenAI Codex](https://ollama.com/blog/codex): Run Codex locally with open-source models.
+- [RalphTUI](https://ralph-tui.com/): An AI Agent Loop Orchestrator.
+- [Chroma 1.0](https://x.com/flashlabsdotai/status/2013993446047158550?s=20): Open-source real-time speech-to-speech model. [Quick start](https://cookbook.sglang.io/docs/autoregressive/FlashLabs/Chroma1.0).
+- [GLM-4.7-Flash](https://x.com/Zai_org/status/2013261304060866758?s=20): Local coding and agentic assistant.
 - [Heartmula](https://github.com/HeartMuLa/heartlib): Local and open-source AI music generator. [Tutorial](https://youtu.be/54YB-hjZDR4?si=9Kce4lVWq4eBk3mf). Read the research [paper](https://arxiv.org/pdf/2601.10547). 
-- [Blackbox CLI](https://x.com/blackboxai/status/2012386609845727437?s=20): Run Claude Code, Codex, Gemini CLI, + others in a single CLI
-- [ChatGPT Go](https://openai.com/index/introducing-chatgpt-go/): Low-cost ChatGPT subscription
-- [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/): A new suite of open translation models
-- [openresponses.org](https://www.openresponses.org/): An open-source spec for building multi-provider LLM interfaces. [X post](https://x.com/OpenAIDevs/status/2011862984595795974?s=20)
-- [GPT-5.2 Codex in OpenAI API](https://platform.openai.com/docs/models/gpt-5.2-codex): In [GitHub Copilot](https://github.blog/changelog/2026-01-14-gpt-5-2-codex-is-now-generally-available-in-github-copilot/), [Cursor](https://x.com/cursor_ai/status/2011500027945033904?s=20), [Warp](https://x.com/warpdotdev/status/2011506197279732023?s=20)
-- [The FreeMoCap project](https://github.com/freemocap/freemocap): [X post](https://x.com/freemocap/status/2010845786007875659?s=20). A free [motion capture](https://freemocap.org/) for everyone
-- [Anthropic Cowork](https://x.com/claudeai/status/2010805682434666759?s=20): Claude Code for non-technical tasks
-- [Kyutai Pocket TTS](https://x.com/kyutai_labs/status/2011047335892303875?s=20): A high quality [TTS](https://kyutai.org/blog/2026-01-13-pocket-tts) that gives your CPU a voice
-- [Advancing Claude](https://www.anthropic.com/news/healthcare-life-sciences): Healthcare and the life sciences
-- [UCP](https://developers.google.com/merchant/ucp): Universal Commerce Protocol on Google
-- [NVIDIA Alpamayo](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/): Reason-driven AI model for autonomous vehicles
-- [LTX-2 Model](https://ltx.io/model): Best open-source multimodal AI video generation
+- [Blackbox CLI](https://x.com/blackboxai/status/2012386609845727437?s=20): Run Claude Code, Codex, Gemini CLI, + others in a single CLI.
+- [ChatGPT Go](https://openai.com/index/introducing-chatgpt-go/): Low-cost ChatGPT subscription.
+- [TranslateGemma](https://blog.google/innovation-and-ai/technology/developers-tools/translategemma/): A new suite of open translation models.
+- [openresponses.org](https://www.openresponses.org/): An open-source spec for building multi-provider LLM interfaces. [X post](https://x.com/OpenAIDevs/status/2011862984595795974?s=20).
+- [GPT-5.2 Codex in OpenAI API](https://platform.openai.com/docs/models/gpt-5.2-codex): In [GitHub Copilot](https://github.blog/changelog/2026-01-14-gpt-5-2-codex-is-now-generally-available-in-github-copilot/), [Cursor](https://x.com/cursor_ai/status/2011500027945033904?s=20), [Warp](https://x.com/warpdotdev/status/2011506197279732023?s=20).
+- [The FreeMoCap project](https://github.com/freemocap/freemocap): [X post](https://x.com/freemocap/status/2010845786007875659?s=20). A free [motion capture](https://freemocap.org/) for everyone.
+- [Anthropic Cowork](https://x.com/claudeai/status/2010805682434666759?s=20): Claude Code for non-technical tasks.
+- [Kyutai Pocket TTS](https://x.com/kyutai_labs/status/2011047335892303875?s=20): A high quality [TTS](https://kyutai.org/blog/2026-01-13-pocket-tts) that gives your CPU a voice.
+- [Advancing Claude](https://www.anthropic.com/news/healthcare-life-sciences): Healthcare and the life sciences.
+- [UCP](https://developers.google.com/merchant/ucp): Universal Commerce Protocol on Google.
+- [NVIDIA Alpamayo](https://www.nvidia.com/en-us/solutions/autonomous-vehicles/alpamayo/): Reason-driven AI model for autonomous vehicles.
+- [LTX-2 Model](https://ltx.io/model): Best open-source multimodal AI video generation.
 - [ChatGPT Health](https://openai.com/index/introducing-chatgpt-health/)
 - [NVIDIA New Open Models](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
-- [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model
-- [FlowDeck](https://flowdeck.studio/): Build and ship SwiftUI apps without leaving Cursor
+- [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model.
+- [FlowDeck](https://flowdeck.studio/): Build and ship SwiftUI apps without leaving Cursor.
 
 
 ## December 2025
