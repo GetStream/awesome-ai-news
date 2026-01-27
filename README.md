@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
+- [Kimi K2.5](https://x.com/Kimi_Moonshot/status/2016021783833673897?s=20): Aesthetic Coding x Agent Swarm
 - [NVIDIA PersonaPlex](https://research.nvidia.com/labs/adlr/personaplex/): The most Natural speech-to-speech conversational AI.
 - [Ollama Launch](https://ollama.com/blog/launch): A new Ollama command that sets up and runs your favorite coding tools like Claude Code, OpenCode, and Codex.
 - [Clawdbot](https://clawd.bot/): The AI that does everything.
