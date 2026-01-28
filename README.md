@@ -5,6 +5,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## January 2026
 - [Kimi K2.5](https://x.com/Kimi_Moonshot/status/2016021783833673897?s=20): Aesthetic Coding x Agent Swarm
 - [NVIDIA PersonaPlex](https://research.nvidia.com/labs/adlr/personaplex/): The most Natural speech-to-speech conversational AI.
+- [Introducing Agentic Vision in Gemini 3 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/?linkId=43682412)
 - [Ollama Launch](https://ollama.com/blog/launch): A new Ollama command that sets up and runs your favorite coding tools like Claude Code, OpenCode, and Codex.
 - [Clawdbot](https://clawd.bot/): The AI that does everything.
 - [Ollama Image Generation:](https://ollama.com/blog/image-generation): Generate images on macOS & Windows.
@@ -30,6 +31,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [NVIDIA New Open Models](https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/)
 - [G0 Plus VLA](https://x.com/GalaxeaDynamics/status/2007665494841799124?s=20): Pick up anything AI model.
 - [FlowDeck](https://flowdeck.studio/): Build and ship SwiftUI apps without leaving Cursor.
+- [skillseekersweb.com/](https://skillseekersweb.com/): Automatically convert documentation websites, GitHub repositories, and PDF files into production-ready skills for any LLM platform—Claude, Gemini, OpenAI
 
 
 ## December 2025
