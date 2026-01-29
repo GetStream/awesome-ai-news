@@ -3,9 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
-- [Grok Imagine API](https://x.ai/news/grok-imagine-api)
-- [Kimi Code](https://www.kimi.com/code): Kimi CLI Coding
-- [Kimi K2.5](https://x.com/Kimi_Moonshot/status/2016021783833673897?s=20): Aesthetic Coding x Agent Swarm
+- [Grok Imagine API](https://x.ai/news/grok-imagine-api): State-of-the-art video generation.
+- [Kimi Code](https://www.kimi.com/code): Kimi CLI Coding.
+- [Kimi K2.5](https://x.com/Kimi_Moonshot/status/2016021783833673897?s=20): Aesthetic Coding x Agent Swarm.
 - [NVIDIA PersonaPlex](https://research.nvidia.com/labs/adlr/personaplex/): The most Natural speech-to-speech conversational AI.
 - [Introducing Agentic Vision in Gemini 3 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/agentic-vision-gemini-3-flash/?linkId=43682412)
 - [Ollama Launch](https://ollama.com/blog/launch): A new Ollama command that sets up and runs your favorite coding tools like Claude Code, OpenCode, and Codex.
