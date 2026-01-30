@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## January 2026
+- [Project Genie](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/): Create, edit, and explore virtual worlds.
+- [Qwen3-ASR](https://x.com/Alibaba_Qwen/status/2016900512478875991?s=20): Now open-source.
 - [Grok Imagine API](https://x.ai/news/grok-imagine-api): State-of-the-art video generation.
 - [Kimi Code](https://www.kimi.com/code): Kimi CLI Coding.
 - [Kimi K2.5](https://x.com/Kimi_Moonshot/status/2016021783833673897?s=20): Aesthetic Coding x Agent Swarm.
