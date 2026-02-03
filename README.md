@@ -2,7 +2,7 @@
 
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
-## January 2026
+## February 2026
 - [OpenAI Codex macOS app](https://openai.com/index/introducing-the-codex-app/): Quick [start](https://openai.com/codex/)
 - [Codex in Xcode 26.3](https://x.com/OpenAIDevs/status/2018796432443244897?s=20)
 - [Claude Agent SDK](https://www.anthropic.com/news/apple-xcode-claude-agent-sdk): In Xcode 26.3
