@@ -5,7 +5,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## February 2026
 - [OpenAI Codex macOS app](https://openai.com/index/introducing-the-codex-app/): Quick [start](https://openai.com/codex/)
 - [Codex in Xcode 26.3](https://x.com/OpenAIDevs/status/2018796432443244897?s=20)
-- [Claude Agent SDK](https://www.anthropic.com/news/apple-xcode-claude-agent-sdk): In Xcode 26.3
+- [Claude Agent SDK in Xcode 26.3](https://www.anthropic.com/news/apple-xcode-claude-agent-sdk): Get the full power of Claude Code directly in Xcode.
 - [Agentic Coding in Xcode](https://developer.apple.com/xcode/?cid=ADC-DM-c00377-M00827)
 
 ## January 2026
@@ -106,6 +106,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [OpenAI Sora 2](https://x.com/OpenAI/status/1973075422058623274)
 
 ## September 2025
+- [Claude Agents SDK](https://platform.claude.com/docs/en/agent-sdk/overview)
 - [Claude Sonnet 4.5](https://x.com/alexalbert__/status/1972707077182394744)
 - OpenAI + Stripe [Agentic Commerce Protocol](https://x.com/OpenAI/status/1972708279043367238)
 - [ChatGPT Parental Control](https://x.com/OpenAI/status/1972604360204210600)
