@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## February 2026
+- [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
+- [Introducing Claude Opus 4.6](https://x.com/claudeai/status/2019467372609040752?s=20)
 - [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/): A platform that helps enterprises build, deploy, and manage AI coworkers that can do real work.
 - [OpenAI Codex macOS app](https://openai.com/index/introducing-the-codex-app/): Quick [start](https://openai.com/codex/)
 - [Codex in Xcode 26.3](https://x.com/OpenAIDevs/status/2018796432443244897?s=20)
