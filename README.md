@@ -10,7 +10,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [Codex in Xcode 26.3](https://x.com/OpenAIDevs/status/2018796432443244897?s=20)
 - [Claude Agent SDK in Xcode 26.3](https://www.anthropic.com/news/apple-xcode-claude-agent-sdk): Get the full power of Claude Code directly in Xcode.
 - [Agentic Coding in Xcode](https://developer.apple.com/xcode/?cid=ADC-DM-c00377-M00827)
-- [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2): Speech-to-text models with state-of-the-art transcription quality & diarization.
+- [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2): Mistral Speech-to-Text models with state-of-the-art transcription quality & diarization.
 
 ## January 2026
 - [Project Genie](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/): Create, edit, and explore virtual worlds.
