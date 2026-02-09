@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## February 2026
+- [Agent Skills Launch Party](https://luma.com/5tttu03l): 17th Feb, 2026 by Anthropic.
 - [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 - [Introducing Claude Opus 4.6](https://x.com/claudeai/status/2019467372609040752?s=20)
 - [OpenAI Frontier](https://openai.com/index/introducing-openai-frontier/): A platform that helps enterprises build, deploy, and manage AI coworkers that can do real work.
