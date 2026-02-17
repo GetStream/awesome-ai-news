@@ -3,6 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## February 2026
+- [OpenClaw Joins OpenAI](https://x.com/sama/status/2023150230905159801?s=20)
+- [Read](https://x.com/mattshumer_/status/2021256989876109403?s=20): Something big is happening.
+- [Qwen 3.5](https://x.com/Alibaba_Qwen/status/2023331062433153103?s=20): Open-weight model in the Qwen3.5 series.
 - [Cursor Composer 1.5](https://cursor.com/blog/composer-1-5)
 - [Agent Skills Launch Party](https://luma.com/5tttu03l): 17th Feb, 2026 by Anthropic.
 - [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
