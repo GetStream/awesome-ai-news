@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## February 2026
+- [Lyria 3](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=): Custom music generation with Gemini
 - [Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 - [OpenClaw Joins OpenAI](https://x.com/sama/status/2023150230905159801?s=20)
 - [Read](https://x.com/mattshumer_/status/2021256989876109403?s=20): Something big is happening.
