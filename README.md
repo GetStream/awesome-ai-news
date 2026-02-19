@@ -19,6 +19,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [Agentic Coding in Xcode](https://developer.apple.com/xcode/?cid=ADC-DM-c00377-M00827)
 - [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2): Mistral Speech-to-Text models with state-of-the-art transcription quality & diarization.
 - [Anthropic Cowork](https://x.com/claudeai/status/2021336313979625910?s=20): For Windows.
+- [Cursor Plugins](https://cursor.com/marketplace): Extend the agent with plugins.
 
 ## January 2026
 - [Project Genie](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/): Create, edit, and explore virtual worlds.
