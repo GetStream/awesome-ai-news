@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## February 2026
+- [gpt-realtime-1.5](https://x.com/OpenAIDevs/status/2026014334787461508?s=20): OpenAI's new speech-to-speech model for building voice workflows.
+- [Vercel Chat SDK](https://vercel.com/changelog/chat-sdk): One codebase, every chat platform.
 - [Gemini 3.1 Pro](https://x.com/GoogleDeepMind/status/2024516464892334129?s=20)
 - [Lyria 3](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=): Custom music generation with Gemini
 - [Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
