@@ -2,7 +2,12 @@
 
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
+## March 2026
+- [Qwen 3.5](https://x.com/ollama/status/2028510184788926567?s=20): Small model series
+
 ## February 2026
+- [Foundation Models SDK for Python](https://apple.github.io/python-apple-fm-sdk/)
+- [Nano Banana 2](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 - [gpt-realtime-1.5](https://x.com/OpenAIDevs/status/2026014334787461508?s=20): OpenAI's new speech-to-speech model for building voice workflows.
 - [Vercel Chat SDK](https://vercel.com/changelog/chat-sdk): One codebase, every chat platform.
 - [Gemini 3.1 Pro](https://x.com/GoogleDeepMind/status/2024516464892334129?s=20)
