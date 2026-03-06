@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Introducing GPT‑5.4](https://openai.com/index/introducing-gpt-5-4/)
 - [Gemini 3.1 Flash Lite](https://github.com/GetStream/Vision-Agents/tree/main/plugins/elevenlabs)
 - [Assembly AI Universal-3 Pro Streaming](https://www.assemblyai.com/universal-3-pro-streaming): Real-time transcription model for voice agents.
 - [Qwen 3.5](https://x.com/ollama/status/2028510184788926567?s=20): Small model series
