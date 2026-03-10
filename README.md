@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Gemini powered Docs, Sheets, Slides](https://x.com/OfficialLoganK/status/2031374503599567113?s=20)
 - [Claude Code Marketplace](https://claude.com/platform/marketplace)
 - [Introducing GPT‑5.4](https://openai.com/index/introducing-gpt-5-4/)
 - [Gemini 3.1 Flash Lite](https://github.com/GetStream/Vision-Agents/tree/main/plugins/elevenlabs)
