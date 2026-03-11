@@ -3,6 +3,10 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [TADA](https://x.com/hume_ai/status/2031401003078062578?s=20): Hume AI's first open source TTS model.
+- [Fish Audio S2](https://x.com/FishAudio/status/2031411140820152560?s=20): Expressive TTS with controllable emotion.
+- [ChatGPT](https://x.com/gdb/status/2031535461483614628?s=20): For interactive learning of math and science.
+- [Introducing Expo Agent](https://x.com/Baconbrix/status/2031402262808125675?s=20)
 - [Gemini powered Docs, Sheets, Slides](https://x.com/OfficialLoganK/status/2031374503599567113?s=20)
 - [Claude Code Marketplace](https://claude.com/platform/marketplace)
 - [Introducing GPT‑5.4](https://openai.com/index/introducing-gpt-5-4/)
