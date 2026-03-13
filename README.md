@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Codex App](https://x.com/OpenAIDevs/status/2032222631538409728?s=20): Personalize with themes.
+- [OpenAI Video API](https://x.com/OpenAIDevs/status/2032142448970121468?s=20): Powered by Sora 2.
 - [TADA](https://www.hume.ai/blog/opensource-tada): Hume AI's first open source TTS model.
 - [Fish Audio S2](https://x.com/FishAudio/status/2031411140820152560?s=20): Expressive TTS with controllable emotion.
 - [ChatGPT](https://x.com/gdb/status/2031535461483614628?s=20): For interactive learning of math and science.
