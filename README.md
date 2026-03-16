@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Grok Voice](https://x.com/xai/status/2033617157884678507?s=20): API release.
 - [Codex App](https://x.com/OpenAIDevs/status/2032222631538409728?s=20): Personalize with themes.
 - [OpenAI Video API](https://x.com/OpenAIDevs/status/2032142448970121468?s=20): Powered by Sora 2.
 - [TADA](https://www.hume.ai/blog/opensource-tada): Hume AI's first open source TTS model.
