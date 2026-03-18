@@ -3,7 +3,12 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Introducing GPT‑5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano/)
+- [Mistral Moderation 2](https://x.com/MistralDevs/status/2033950300902502749?s=20)
 - [Grok Voice](https://x.com/xai/status/2033617157884678507?s=20): API release.
+- [Stich SDK by Google](https://x.com/_davideast/status/2033675516964663318?s=20)
+- [Ollama](https://x.com/ollama/status/2033339501872116169?s=20): Now an official provider for OpenClaw. 
+- [Unsloth Studio](https://x.com/UnslothAI/status/2033926272481718523?s=20): Open-source web UI to train and run LLMs.
 - [Codex App](https://x.com/OpenAIDevs/status/2032222631538409728?s=20): Personalize with themes.
 - [OpenAI Video API](https://x.com/OpenAIDevs/status/2032142448970121468?s=20): Powered by Sora 2.
 - [TADA](https://www.hume.ai/blog/opensource-tada): Hume AI's first open source TTS model.
