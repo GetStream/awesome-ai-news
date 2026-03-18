@@ -12,6 +12,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [Codex App](https://x.com/OpenAIDevs/status/2032222631538409728?s=20): Personalize with themes.
 - [OpenAI Video API](https://x.com/OpenAIDevs/status/2032142448970121468?s=20): Powered by Sora 2.
 - [TADA](https://www.hume.ai/blog/opensource-tada): Hume AI's first open source TTS model.
+- [NVIDIA Nemotron 3 Super](https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/)
 - [Fish Audio S2](https://x.com/FishAudio/status/2031411140820152560?s=20): Expressive TTS with controllable emotion.
 - [ChatGPT](https://x.com/gdb/status/2031535461483614628?s=20): For interactive learning of math and science.
 - [Introducing Expo Agent](https://x.com/Baconbrix/status/2031402262808125675?s=20)
