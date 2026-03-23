@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Blitz](https://x.com/tom_doerr/status/2035515931682586649?s=20): A free, open-source macOS app that gives AI agents full control over iOS and macOS development. [blitz.dev](https://blitz.dev/).
 - [The new Stitch by Google](https://stitch.withgoogle.com/): Transform ideas into UI designs for mobile and web apps.
 - [Composer 2](https://x.com/cursor_ai/status/2034668943676244133?s=20): Now available in Cursor.
 - [Firebase](https://x.com/antigravity/status/2034660592204828687?s=20): In Google AI Studio.
