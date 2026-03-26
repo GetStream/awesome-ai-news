@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## March 2026
+- [Gemini 3.1 Flash Live](https://x.com/OfficialLoganK/status/2037187750005240307?s=20): New realtime model to build voice and vision agents.
+- [Voxtral TTS](https://x.com/MistralAI/status/2037183026539483288?s=20): New text-to-speech model from Mistral.
 - [OpenPencil](https://op.zseven.tech/): Open-source AI-Native design tool. Design as code. 
 - [Blitz](https://x.com/tom_doerr/status/2035515931682586649?s=20): A free, open-source macOS app that gives AI agents full control over iOS and macOS development. [blitz.dev](https://blitz.dev/).
 - [The new Stitch by Google](https://stitch.withgoogle.com/): Transform ideas into UI designs for mobile and web apps.
