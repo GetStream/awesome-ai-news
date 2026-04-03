@@ -3,8 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
-[MAI-Transcribe-1](https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/?form=M301FW&OCID=CGE_osocial_Copilot_Free_868j3yepz): State of the Art Speech Recognition.
-[Qwen3.6-Plus](https://qwen.ai/blog?id=qwen3.6)
+- [Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
+- [Cursor 3](https://x.com/cursor_ai/status/2039768512894505086?s=20)
+- [Bitrig](https://x.com/BitrigApp/status/2039778176235130939?s=20): You can now build Mac apps with AI
+- [MAI-Transcribe-1](https://microsoft.ai/news/state-of-the-art-speech-recognition-with-mai-transcribe-1/?form=M301FW&OCID=CGE_osocial_Copilot_Free_868j3yepz): State of the Art Speech Recognition.
+- [Qwen3.6-Plus](https://qwen.ai/blog?id=qwen3.6)
 
 ## March 2026
 - [Gemini 3.1 Flash Live](https://x.com/OfficialLoganK/status/2037187750005240307?s=20): New realtime model to build voice and vision agents.
