@@ -41,6 +41,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [SwiftUI Agent Skills](https://github.com/twostraws/swiftui-agent-skill)
 
 ## February 2026
+- [Tiny Aya by Cohere Labs](https://cohere.com/blog/cohere-labs-tiny-aya): Making Multilingual AI Accessible.
 - [Foundation Models SDK for Python](https://apple.github.io/python-apple-fm-sdk/)
 - [Nano Banana 2](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 - [gpt-realtime-1.5](https://x.com/OpenAIDevs/status/2026014334787461508?s=20): OpenAI's new speech-to-speech model for building voice workflows.
