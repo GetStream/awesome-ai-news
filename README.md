@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
+- [Gradium Phonon](https://x.com/GradiumAI/status/2039341282598813954?s=20): On-device [text-to-speech](https://gradium.ai/on-device-tts).
+- [Meta Muse Spark](https://x.com/AIatMeta/status/2041910285653737975?s=20): Meta's personal [superintelligence model](https://ai.meta.com/blog/introducing-muse-spark-msl/).
 - [Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
 - [Cursor 3](https://x.com/cursor_ai/status/2039768512894505086?s=20)
 - [Bitrig](https://x.com/BitrigApp/status/2039778176235130939?s=20): You can now build Mac apps with AI
