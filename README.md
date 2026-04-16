@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 - [Gemini 3.1 Flash TTS](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/): Google's next generation of expressive AI speech
 - [Introducing Gemini Robotics ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/): New SOTA robotics model 🤖 which excels at visual and spacial reasoning.
 - [Gradium Phonon](https://x.com/GradiumAI/status/2039341282598813954?s=20): On-device [text-to-speech](https://gradium.ai/on-device-tts).
