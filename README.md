@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
+- [Introducing Claude Design by Anthropic Labs](https://x.com/claudeai/status/2045156267690213649?s=20): Make prototypes, slides, and one-pagers by talking to Claude.
 - [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7).
 - [Introducing GPT‑Rosalind](https://openai.com/index/introducing-gpt-rosalind/): For life sciences research.
 - [Gemini 3.1 Flash TTS](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/): Google's next generation of expressive AI speech
