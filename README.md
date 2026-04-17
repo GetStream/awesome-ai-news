@@ -3,9 +3,12 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
-- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+- [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7).
+- [Introducing GPT‑Rosalind](https://openai.com/index/introducing-gpt-rosalind/): For life sciences research.
 - [Gemini 3.1 Flash TTS](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/): Google's next generation of expressive AI speech
+- [Meet Qwen3.6-35B-A3B](https://qwen.ai/blog?id=qwen3.6-35b-a3b): Now Open-Source. [X post](https://x.com/Alibaba_Qwen/status/2044768734234243427?s=20) 🚀🚀.
 - [Introducing Gemini Robotics ER 1.6](https://deepmind.google/blog/gemini-robotics-er-1-6/): New SOTA robotics model 🤖 which excels at visual and spacial reasoning.
+- [Moss-TTS](https://mosi.cn/models/moss-tts)
 - [Gradium Phonon](https://x.com/GradiumAI/status/2039341282598813954?s=20): On-device [text-to-speech](https://gradium.ai/on-device-tts).
 - [Meta Muse Spark](https://x.com/AIatMeta/status/2041910285653737975?s=20): Meta's personal [superintelligence model](https://ai.meta.com/blog/introducing-muse-spark-msl/).
 - [Gemma 4](https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/)
