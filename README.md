@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
+- [Kimi K2.6](https://www.kimi.com/blog/kimi-k2-6): Advancing Open-Source Coding.
+- [Open Agents](https://open-agents.dev/): Spawn coding agents that run infinitely in the cloud.
 - [Introducing Claude Design by Anthropic Labs](https://x.com/claudeai/status/2045156267690213649?s=20): Make prototypes, slides, and one-pagers by talking to Claude.
 - [Introducing Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7).
 - [Introducing GPT‑Rosalind](https://openai.com/index/introducing-gpt-rosalind/): For life sciences research.
