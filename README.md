@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
+- [Introducing ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/): A new era of image generation.
+- [Qwen3.6-27B](https://qwen.ai/blog?id=qwen3.6-27b): Coding in a 27B Dense Model. [GitHub](https://github.com/QwenLM/Qwen3.6), [Hugging Face](https://huggingface.co/Qwen/Qwen3.6-27B)
 - [Kimi K2.6](https://www.kimi.com/blog/kimi-k2-6): Advancing Open-Source Coding.
 - [Open Agents](https://open-agents.dev/): Spawn coding agents that run infinitely in the cloud.
 - [Introducing Claude Design by Anthropic Labs](https://x.com/claudeai/status/2045156267690213649?s=20): Make prototypes, slides, and one-pagers by talking to Claude.
