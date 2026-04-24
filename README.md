@@ -5,6 +5,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## April 2026
 - [Introducing GPT‑5.5](https://openai.com/index/introducing-gpt-5-5/): A new class of intelligence for real work.
 - [Grok Voice Think Fast 1.0](https://x.ai/news/grok-voice-think-fast-1): Realtimew voice agent API like Gemini Live.
+- [Introducing DeepSeek v4](https://x.com/deepseek_ai/status/2047516922263285776?s=20) family of models.
 - [Introducing Soniox Text-to-Speech](https://soniox.com/blog/soniox-text-to-speech):The voice platform for every language.
 - [Meta Sapiens 2](https://openreview.net/pdf?id=IVAlYCqdvW): High-resolution transformers for humancentric vision, focused on generalization.
 - [Bitrig](https://x.com/BitrigApp/status/2046983145656881644?s=20): You can now build iOS, macOS, and watchOS apps with AI.
