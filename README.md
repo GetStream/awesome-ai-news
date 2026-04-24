@@ -3,7 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
-- [Bitrig](https://x.com/BitrigApp/status/2046983145656881644?s=20): You can now build iOS, macOS, and watchOS apps with AI
+- [Introducing GPT‑5.5](https://openai.com/index/introducing-gpt-5-5/): A new class of intelligence for real work.
+- [Grok Voice Think Fast 1.0](https://x.ai/news/grok-voice-think-fast-1): Realtimew voice agent API like Gemini Live.
+- [Introducing Soniox Text-to-Speech](https://soniox.com/blog/soniox-text-to-speech):The voice platform for every language.
+- [Meta Sapiens 2](https://openreview.net/pdf?id=IVAlYCqdvW): High-resolution transformers for humancentric vision, focused on generalization.
+- [Bitrig](https://x.com/BitrigApp/status/2046983145656881644?s=20): You can now build iOS, macOS, and watchOS apps with AI.
 - [Introducing ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/): A new era of image generation.
 - [Vision Banana](https://vision-banana.github.io/): [Image Generators](https://arxiv.org/abs/2604.20329) are Generalist Vision Learners
 - [Qwen3.6-27B](https://qwen.ai/blog?id=qwen3.6-27b): Coding in a 27B Dense Model. [GitHub](https://github.com/QwenLM/Qwen3.6), [Hugging Face](https://huggingface.co/Qwen/Qwen3.6-27B)
