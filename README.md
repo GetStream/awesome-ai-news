@@ -3,10 +3,13 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## April 2026
+- [Vision Agents v0.5.5](https://x.com/visionagents_ai/status/2048919179328422118?s=20): Open-Source framework for building voice/video/vision AI apps. 
 - [Introducing GPT‑5.5](https://openai.com/index/introducing-gpt-5-5/): A new class of intelligence for real work.
 - [Grok Voice Think Fast 1.0](https://x.ai/news/grok-voice-think-fast-1): Realtimew voice agent API like Gemini Live.
 - [Introducing DeepSeek v4](https://x.com/deepseek_ai/status/2047516922263285776?s=20) family of models.
 - [Introducing Soniox Text-to-Speech](https://soniox.com/blog/soniox-text-to-speech):The voice platform for every language.
+- [HyperFrames](https://x.com/HeyGen/status/2048882211022311614?s=20): Plugin for Codex.
+- [Voice-Controlled Apps](https://x.com/OpenAIDevs/status/2048871260512473385?s=20): Using gpt-realtime-1.5.
 - [Meta Sapiens 2](https://openreview.net/pdf?id=IVAlYCqdvW): High-resolution transformers for humancentric vision, focused on generalization.
 - [Bitrig](https://x.com/BitrigApp/status/2046983145656881644?s=20): You can now build iOS, macOS, and watchOS apps with AI.
 - [Introducing ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/): A new era of image generation.
