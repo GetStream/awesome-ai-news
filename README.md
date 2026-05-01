@@ -2,6 +2,9 @@
 
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
+## May 2026
+[Code with Claude](https://claude.com/code-with-claude): Anthropic’s developer conference
+
 ## April 2026
 - [Vision Agents v0.5.5](https://x.com/visionagents_ai/status/2048919179328422118?s=20): Open-Source framework for building voice/video/vision AI apps. 
 - [Introducing GPT‑5.5](https://openai.com/index/introducing-gpt-5-5/): A new class of intelligence for real work.
