@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## May 2026
+- [GPT-Realtime-2, Translate & Transcribe](https://x.com/OpenAI/status/2052438196454379986?s=20): Advancing voice intelligence with [new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/).
+- [Grok Voice](https://x.ai/news/grok-custom-voices): Custom Voices and Voice Library
 - [Code with Claude](https://claude.com/code-with-claude): Anthropic’s developer conference
 
 ## April 2026
