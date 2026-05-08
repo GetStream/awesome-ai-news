@@ -4,8 +4,14 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## May 2026
 - [GPT-Realtime-2, Translate & Transcribe](https://x.com/OpenAI/status/2052438196454379986?s=20): Advancing voice intelligence with [new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/).
-- [Grok Voice](https://x.ai/news/grok-custom-voices): Custom Voices and Voice Library
-- [Code with Claude](https://claude.com/code-with-claude): Anthropic’s developer conference
+- [Grok Voice](https://x.ai/news/grok-custom-voices): Custom Voices and Voice Library.[Docs](https://docs.x.ai/developers/model-capabilities/audio/custom-voices?campaign=custom-voices-blog), [blog](https://x.ai/news/grok-custom-voices).
+- [Code with Claude](https://claude.com/code-with-claude): Anthropic’s developer conference.
+- [VS Code](https://code.visualstudio.com/updates/v1_119): Agentic browser and OpenTelemetry tracing.
+- [Bitrig](https://x.com/BitrigApp/status/2052106307465875547?s=20): Now works with Xcode projects from GitHub.
+- [Grok Imagine](https://x.com/xai/status/2052193877675983031?s=20): Quality Mode API.
+- [Deepgram Flux Multilingual](https://deepgram.com/learn/introducing-flux-multilingual): Conversational Speech Model for Global Voice Agents.
+- [MoshiRAG](https://kyutai.org/blog/2026-04-30-moshi-rag): Asynchronous Knowledge Retrieval for Full-Duplex Speech Language Models.
+
 
 ## April 2026
 - [Vision Agents v0.5.5](https://x.com/visionagents_ai/status/2048919179328422118?s=20): Open-Source framework for building voice/video/vision AI apps. 
