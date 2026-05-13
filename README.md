@@ -3,7 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## May 2026
-- [Thinking Machines Interaction Models](https://thinkingmachines.ai/blog/interaction-models/): A Scalable Approach to Human-AI Collaboration
+- [Thinking Machines Interaction Models](https://thinkingmachines.ai/blog/interaction-models/): A Scalable Approach to Human-AI Collaboration.
+- [Introducing Perceptron Mk1](https://www.perceptron.inc/blog/introducing-perceptron-mk1): Frontier video and embodied reasoning model.
+- [Introducing Googlebook](https://blog.google/products-and-platforms/platforms/android/meet-googlebook/): Gemini-powered laptop.
 - [GPT-Realtime-2, Translate & Transcribe](https://x.com/OpenAI/status/2052438196454379986?s=20): Advancing voice intelligence with [new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/).
 - [Grok Voice](https://x.ai/news/grok-custom-voices): Custom Voices and Voice Library.[Docs](https://docs.x.ai/developers/model-capabilities/audio/custom-voices?campaign=custom-voices-blog), [blog](https://x.ai/news/grok-custom-voices).
 - [Code with Claude](https://claude.com/code-with-claude): Anthropic’s developer conference.
