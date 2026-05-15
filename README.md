@@ -3,7 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## May 2026
-- [GitHub Copilot App](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/): Now available in technical preview
+- [Grok Build Beta](https://x.ai/cli): An agentic CLI for coding.
+- [Codex in ChatGPT Mobile](https://openai.com/index/work-with-codex-from-anywhere/): Codex is coming to your phone.
+- [GitHub Copilot App](https://github.blog/changelog/2026-05-14-github-copilot-app-is-now-available-in-technical-preview/): Now available in technical preview.
 - [Thinking Machines Interaction Models](https://thinkingmachines.ai/blog/interaction-models/): A Scalable Approach to Human-AI Collaboration.
 - [Introducing Perceptron Mk1](https://www.perceptron.inc/blog/introducing-perceptron-mk1): Frontier video and embodied reasoning model.
 - [Introducing Googlebook](https://blog.google/products-and-platforms/platforms/android/meet-googlebook/): Gemini-powered laptop.
