@@ -3,6 +3,10 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## May 2026
+- [Andrej Karpathy Joins Anthropic](https://x.com/karpathy/status/2056753169888334312?s=20)
+- [Managed Antigravity Agents](https://ai.google.dev/gemini-api/docs/managed-agents-quickstart): In the Gemini API.
+- [Introducing Gemini Omni](https://x.com/OfficialLoganK/status/2056787874260164628?s=20)
+- [Introducing Antigravity 2.0](https://x.com/Google/status/2056789045548896516?s=20)
 - [Cursor Composer 2.5](https://x.com/cursor_ai/status/2056415413077233983?s=20).
 - [Qwen3.7-Max-Preview & Qwen3.7-Plus-Preview](https://x.com/Alibaba_Qwen/status/2056403591464984753?s=20).
 - [Ollama Now Supports Codex App](https://x.com/ollama/status/2055100589428658462?s=20): Select an open Ollama model to use with the Codex App.
