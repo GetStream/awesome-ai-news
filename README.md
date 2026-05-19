@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## May 2026
+- [Cursor Composer 2.5](https://x.com/cursor_ai/status/2056415413077233983?s=20).
+- [Qwen3.7-Max-Preview & Qwen3.7-Plus-Preview](https://x.com/Alibaba_Qwen/status/2056403591464984753?s=20).
 - [Ollama Now Supports Codex App](https://x.com/ollama/status/2055100589428658462?s=20): Select an open Ollama model to use with the Codex App.
 - [Grok Build Beta](https://x.ai/cli): An agentic CLI for coding.
 - [Codex in ChatGPT Mobile](https://openai.com/index/work-with-codex-from-anywhere/): Codex is coming to your phone.
