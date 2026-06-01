@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## May 2026
+- [NVIDIA Cosmos 3](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/): A frontier model for Physical AI.
 - [Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 - [Andrej Karpathy Joins Anthropic](https://x.com/karpathy/status/2056753169888334312?s=20)
 - [Managed Antigravity Agents](https://ai.google.dev/gemini-api/docs/managed-agents-quickstart): In the Gemini API.
