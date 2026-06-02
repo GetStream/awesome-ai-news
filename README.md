@@ -4,7 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## June 2026
 - [OpenAI Frontier Models & Codex](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/): Now available on AWS.
-- [Cursor Composer 2.5](https://x.com/xai/status/2061510464325206163?s=20)
+- [Cursor Composer 2.5](https://x.com/xai/status/2061510464325206163?s=20): Now available inside Grok Build.
 
 ## May 2026
 - [NVIDIA Cosmos 3](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/): A frontier model for Physical AI.
