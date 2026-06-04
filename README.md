@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/): Introducing new capabilities.
+- [Miso TTS](https://x.com/AodenTeoMT/status/2062204362102100295?s=20): Emotive foundation models for voice. [misolabs.ai](https://www.misolabs.ai/).
 - [MAI-Code-1-Flash](https://microsoft.ai/models/mai-code-1-flash/): Microsoft's latest small coding model. Try it in VSCode.
 - [OpenAI launched Sites into Codex](https://x.com/TheRohanVarma/status/2061872164442403139?s=20)
 - [OpenAI Frontier Models & Codex](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/): Now available on AWS.
