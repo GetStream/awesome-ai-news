@@ -3,9 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [Codex App](https://x.com/PaulSolt/status/2062643955154501761?s=20): Now has a built-in iOS simulator. 
+- [Ollama gemma4:12b](https://x.com/ollama/status/2062679473443725736?s=20)
 - [GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/): Introducing new capabilities.
 - [Miso TTS](https://x.com/AodenTeoMT/status/2062204362102100295?s=20): Emotive foundation models for voice. [misolabs.ai](https://www.misolabs.ai/).
-- [MAI-Code-1-Flash](https://microsoft.ai/models/mai-code-1-flash/): Microsoft's latest small coding model. Try it in VSCode.
+- [Microsoft's 7 New Models](https://microsoft.ai/news/microsoft-build-2026-mai-keynote-transcript/): MAI keynote transcript.
 - [OpenAI launched Sites into Codex](https://x.com/TheRohanVarma/status/2061872164442403139?s=20)
 - [OpenAI Frontier Models & Codex](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/): Now available on AWS.
 - [Cursor Composer 2.5](https://x.com/xai/status/2061510464325206163?s=20): Now available inside Grok Build (CLI).
