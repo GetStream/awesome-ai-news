@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [Meet Kimi Work](https://x.com/Kimi_Moonshot/status/2063990409903112344?s=20): A local AI agent on your desktop that does the work for you.
 - [Codex App](https://x.com/PaulSolt/status/2062643955154501761?s=20): Now has a built-in iOS simulator. 
 - [Ollama gemma4:12b](https://x.com/ollama/status/2062679473443725736?s=20)
 - [GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/): Introducing new capabilities.
