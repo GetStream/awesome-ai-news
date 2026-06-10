@@ -3,8 +3,12 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [Introducing Claude Fable 5](https://x.com/claudeai/status/2064394146916229443?s=20): A Mythos-class model that we’ve made safe for general use.
 - [Apple Intelligence](https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/): New powerful AI capabilities into everyday experiences. 
 - [Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/): Apple introduces a profoundly more capable and personal AI assistant.
+- [Apple Foundation Models CLI](https://x.com/amos_gyamfi/status/2064533317878272367?s=20)
+- [Gemini 3.5 Live Translate](https://x.com/GoogleAIStudio/status/2064392392405307855?s=20)
+- [North Mini Code](https://x.com/cohere/status/2064378058329526556?s=20): Cohere's first open-source coding model.
 - [Meet Kimi Work](https://x.com/Kimi_Moonshot/status/2063990409903112344?s=20): A local AI agent on your desktop that does the work for you.
 - [Codex App](https://x.com/PaulSolt/status/2062643955154501761?s=20): Now has a built-in iOS simulator. 
 - [Ollama gemma4:12b](https://x.com/ollama/status/2062679473443725736?s=20)
