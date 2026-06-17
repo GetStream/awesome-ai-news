@@ -4,6 +4,11 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## June 2026
 - [Introducing Claude Fable 5](https://x.com/claudeai/status/2064394146916229443?s=20): A Mythos-class model that we’ve made safe for general use.
+- [Introducing GLM 5.2](https://z.ai/blog/glm-5.2): [Frontier intelligence](https://docs.z.ai/guides/llm/glm-5.2) and open weights.
+- [Introducing Eve by Vercel](https://vercel.com/blog/introducing-eve): An agent framework. Like Next.js, for agents.
+- [Flue 1.0 Beta](https://flueframework.com/blog/flue-1-0-beta/): An open-source [agent framework](https://flueframework.com/).
+- [v0's New Design Mode](https://x.com/v0/status/2067244493498470736?s=20): An agent with the precision of a design tool.
+- [Codex OSS Mode](https://developers.openai.com/codex/config-advanced#oss-mode-local-providers): Use the Codex App, CLI and SDK with any open source model.
 - [Apple Intelligence](https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/): New powerful AI capabilities into everyday experiences. 
 - [Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/): Apple introduces a profoundly more capable and personal AI assistant.
 - [Apple Foundation Models CLI](https://x.com/amos_gyamfi/status/2064533317878272367?s=20)
