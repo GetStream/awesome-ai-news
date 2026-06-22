@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [GPT-5.5-Cyber](https://x.com/OpenAI/status/2069104283824640023?s=20): OpenAI's most capable cyber model, designed for advanced, authorized defensive work.
 - [Sakana Fugu](https://sakana.ai/fugu/): One Model to Command Them All.
 - [Introducing Claude Fable 5](https://x.com/claudeai/status/2064394146916229443?s=20): A Mythos-class model that we’ve made safe for general use.
 - [Introducing GLM 5.2](https://z.ai/blog/glm-5.2): [Frontier intelligence](https://docs.z.ai/guides/llm/glm-5.2) and open weights.
