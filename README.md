@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [LFM2.5-230M](https://www.liquid.ai/blog/lfm2-5-230m): Built to Run Anywhere.
 - [Mistral OCR 4](https://x.com/MistralAI/status/2069420263825895917?s=20). Read the [Blog](https://mistral.ai/news/ocr-4/).
 - [GPT-5.5-Cyber](https://x.com/OpenAI/status/2069104283824640023?s=20): OpenAI's most capable cyber model, designed for advanced, authorized defensive work.
 - [Sakana Fugu](https://sakana.ai/fugu/): One Model to Command Them All.
