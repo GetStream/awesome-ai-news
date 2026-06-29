@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [Cursor for iOS](https://x.com/cursor_ai/status/2071641103191998810?s=20).
 - [GPT-5.6 Sol Preview](https://openai.com/index/previewing-gpt-5-6-sol/): OpenAI's next-generation model
 - [Introducing Claude Tag](https://www.anthropic.com/news/introducing-claude-tag): A new way for teams to work with Claude.
 - [LFM2.5-230M](https://www.liquid.ai/blog/lfm2-5-230m): Built to Run Anywhere.
