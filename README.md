@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [Introducing Nano Banana 2 Lite 🍌 and Gemini Omni Flash 🔮](https://x.com/OfficialLoganK/status/2071988351083921690?s=20)
 - [OpenClaw is now on iOS + Android ](https://x.com/openclaw/status/2071688039114342592?s=20): [iOS](https://apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132), [Android](https://play.google.com/store/apps/details?id=ai.openclaw.app)
 - [Cursor for iOS](https://x.com/cursor_ai/status/2071641103191998810?s=20).
 - [GPT-5.6 Sol Preview](https://openai.com/index/previewing-gpt-5-6-sol/): OpenAI's next-generation model
