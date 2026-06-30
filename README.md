@@ -2,6 +2,8 @@
 
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
+## July 2026
+
 ## June 2026
 - [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 - [Introducing TabFM](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/?utm_source=twitter&utm_medium=social&utm_campaign=social_post&utm_content=gr-acct): A zero-shot foundation model for tabular data.
