@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## June 2026
+- [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+- [Introducing TabFM](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/?utm_source=twitter&utm_medium=social&utm_campaign=social_post&utm_content=gr-acct): A zero-shot foundation model for tabular data.
 - [Introducing Claude Science](https://claude.com/product/claude-science): Anthropic's new app designed with every stage of research in mind. 
 - [Introducing Nano Banana 2 Lite 🍌 and Gemini Omni Flash 🔮](https://x.com/OfficialLoganK/status/2071988351083921690?s=20)
 - [OpenClaw is now on iOS + Android ](https://x.com/openclaw/status/2071688039114342592?s=20): [iOS](https://apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132), [Android](https://play.google.com/store/apps/details?id=ai.openclaw.app)
