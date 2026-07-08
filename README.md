@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [xAI Voice Agent](https://x.ai/voice): Create your own voice agent
+in under 2 minutes
 - [Introducing Zcode](https://x.com/Zai_org/status/2072349453361557898?s=20): The official [development environment](https://zcode.z.ai/en) for GLM-5.2.
 
 ## June 2026
