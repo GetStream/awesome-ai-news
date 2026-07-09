@@ -4,6 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## July 2026
 - [Introducing GPT‑Live](https://openai.com/index/introducing-gpt-live/): A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
+- [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/): The latest model from Meta Superintelligence Labs.
 - [Introducing Grok 4.5](https://x.ai/news/grok-4-5): SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
 - [Introducing Muse Image and Muse Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/): The first image/video generation models from Meta Superintelligence Lab.
 - [xAI Voice Agent](https://x.ai/voice): Create your own voice agent
