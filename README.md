@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [GPT-5.6](https://openai.com/index/gpt-5-6/): Frontier intelligence that scales with your ambition. 
 - [Introducing GPT‑Live](https://openai.com/index/introducing-gpt-live/): A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
 - [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/): The latest model from Meta Superintelligence Labs.
 - [Introducing Grok 4.5](https://x.ai/news/grok-4-5): SpaceXAI's smartest model built for coding, agentic tasks, and knowledge work.
