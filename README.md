@@ -8,6 +8,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [Introducing Muse Image and Muse Video](https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/): The first image/video generation models from Meta Superintelligence Lab.
 - [xAI Voice Agent](https://x.ai/voice): Create your own voice agent
 in under 2 minutes.
+[Robostral Navigate](https://x.com/MistralAI/status/2074856309438980145?s=20): Mistral's first model for embodied navigation: an 8B robotics navigation model that guides robots to autonomously.
 - [Introducing Zcode](https://x.com/Zai_org/status/2072349453361557898?s=20): The official [development environment](https://zcode.z.ai/en) for GLM-5.2.
 
 ## June 2026
