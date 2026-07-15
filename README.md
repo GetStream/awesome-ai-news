@@ -3,6 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [Inkling](https://thinkingmachines.ai/news/introducing-inkling/): Thenking Machine's Open-Weights Model.
+- [Introducing Claude for Teachers](https://claude.com/solutions/teachers): Free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills.
+- [Agent Teams in Antigravity](https://x.com/antigravity/status/2076720528937611363?s=20)
+- [ChatGPT is available again on WhatsApp in the EEA](https://x.com/ChatGPTapp/status/2076654365121855835?s=20)
+- [Introducing Side Chats in Cursor](https://x.com/cursor_ai/status/2075686268113916023?s=20)
 - [GPT-5.6](https://openai.com/index/gpt-5-6/): Frontier intelligence that scales with your ambition. 
 - [Introducing GPT‑Live](https://openai.com/index/introducing-gpt-live/): A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.
 - [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/): The latest model from Meta Superintelligence Labs.
