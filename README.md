@@ -51,6 +51,7 @@ in under 2 minutes.
 - [OpenAI launched Sites into Codex](https://x.com/TheRohanVarma/status/2061872164442403139?s=20)
 - [OpenAI Frontier Models & Codex](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/): Now available on AWS.
 - [Cursor Composer 2.5](https://x.com/xai/status/2061510464325206163?s=20): Now available inside Grok Build (CLI).
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## May 2026
 - [NVIDIA Cosmos 3](https://developer.nvidia.com/blog/develop-physical-ai-reasoning-world-and-action-models-with-nvidia-cosmos-3/): A frontier model for Physical AI.
