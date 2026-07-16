@@ -3,7 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [Meet LM Studio Bionic](https://x.com/lmstudio/status/2077836987386429807?s=20)
 - [Kimi K3](https://x.com/Kimi_Moonshot/status/2077821890207547467?s=20)
+- [Introducing ACT-2 Preview](https://x.com/tonyzzhao/status/2077806003308179802?s=20)
 - [Inkling](https://thinkingmachines.ai/news/introducing-inkling/): Thenking Machine's Open-Weights Model.
 - [Introducing Claude for Teachers](https://claude.com/solutions/teachers): Free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills.
 - [Agent Teams in Antigravity](https://x.com/antigravity/status/2076720528937611363?s=20)
