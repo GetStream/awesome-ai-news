@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [NeuTTS-2E](https://x.com/neuphonicspeech/status/2079945803175444700?s=20): A new on-device model for controllable, emotionally expressive speech.
 - [BUZZ](https://x.com/jack/status/2079605800998146171?s=20): A new groupchat platform for teams of people and AI agents.
 - [Claude Code on Desktop](https://x.com/ClaudeDevs/status/2079674432038248611?s=20): Now works with the iOS simulator.
 - [Meet LM Studio Bionic](https://x.com/lmstudio/status/2077836987386429807?s=20)
