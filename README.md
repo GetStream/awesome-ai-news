@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [Introducing Cursor Router](https://x.com/cursor_ai/status/2079993729532989500?s=20): Cursor's intelligent model router that selects the right model for the task at hand.
+- [Introducing Vocals on ElevenMusic](https://x.com/ElevenLabs/status/2079960975524913317?s=20): Generate original songs in your own voice or with a voice from our Vocal Library.
 - [NeuTTS-2E](https://x.com/neuphonicspeech/status/2079945803175444700?s=20): A new on-device model for controllable, emotionally expressive speech.
 - [BUZZ](https://x.com/jack/status/2079605800998146171?s=20): A new groupchat platform for teams of people and AI agents.
 - [Claude Code on Desktop](https://x.com/ClaudeDevs/status/2079674432038248611?s=20): Now works with the iOS simulator.
