@@ -3,11 +3,15 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [BUZZ](https://x.com/jack/status/2079605800998146171?s=20): A new groupchat platform for teams of people and AI agents.
+- [Claude Code on Desktop](https://x.com/ClaudeDevs/status/2079674432038248611?s=20): Now works with the iOS simulator.
 - [Meet LM Studio Bionic](https://x.com/lmstudio/status/2077836987386429807?s=20)
 - [Kimi K3](https://x.com/Kimi_Moonshot/status/2077821890207547467?s=20)
 - [Introducing ACT-2 Preview](https://x.com/tonyzzhao/status/2077806003308179802?s=20)
 - [Inkling](https://thinkingmachines.ai/news/introducing-inkling/): Thenking Machine's Open-Weights Model.
 - [Introducing Claude for Teachers](https://claude.com/solutions/teachers): Free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills.
+- [Introducing Cosmos 3 Edge](https://x.com/NVIDIAAI/status/2079236204743053592?s=20): NVIDIA's open frontier world model built to run on-device.
+- [Gemini 3.6 Flash](https://x.com/Google/status/2079589747366724030?s=20): 3 new Gemini models built to be faster, more token efficient, and reliable at scale.
 - [Agent Teams in Antigravity](https://x.com/antigravity/status/2076720528937611363?s=20)
 - [ChatGPT is available again on WhatsApp in the EEA](https://x.com/ChatGPTapp/status/2076654365121855835?s=20)
 - [Introducing Side Chats in Cursor](https://x.com/cursor_ai/status/2075686268113916023?s=20)
