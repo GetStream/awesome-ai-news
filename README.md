@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [Introducing FLUX 3](https://x.com/bfl_ai/status/2080308988961554582?s=20): One multi-modal model for Image, Video, Audio and Action-Prediction. 
 - [Introducing Cursor Router](https://x.com/cursor_ai/status/2079993729532989500?s=20): Cursor's intelligent model router that selects the right model for the task at hand.
 - [Introducing Vocals on ElevenMusic](https://x.com/ElevenLabs/status/2079960975524913317?s=20): Generate original songs in your own voice or with a voice from our Vocal Library.
 - [NeuTTS-2E](https://x.com/neuphonicspeech/status/2079945803175444700?s=20): A new on-device model for controllable, emotionally expressive speech.
