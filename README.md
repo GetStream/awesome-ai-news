@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## July 2026
+- [Hugging Face Speech-to-Speech](https://github.com/huggingface/speech-to-speech): Hugging Face just open sourced its complete real-time voice AI pipeline.
 - [Kimi K3](https://x.com/FireworksAI_HQ/status/2081877943530426636?s=20): Now available in Cursor.
 - [Kimi K3](https://x.com/lmstudio/status/2081778763822510155?s=20): Now live in LM Studio Bionic.
 - [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5).
