@@ -2,8 +2,14 @@
 
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
+## August 2026
+[Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8): Sets a New bar for coding and cowork.
+
+
 ## July 2026
 - [Cursor](https://x.com/cursor_ai/status/2082532273421955513?s=20): Now available on iPad.
+- [Introducing Gemini Robotics ER 2](https://x.com/OfficialLoganK/status/2082847444195553770?s=20): DeepMind's latest robotics embodied reasoning model based on Gemini.
+- [DeepSeek-V4-Flash](https://x.com/deepseek_ai/status/2083084415157022911?s=20): Official API is now live. 
 - [Hugging Face Speech-to-Speech](https://github.com/huggingface/speech-to-speech): Hugging Face just open sourced its complete real-time voice AI pipeline.
 - [Kimi K3](https://x.com/FireworksAI_HQ/status/2081877943530426636?s=20): Now available in Cursor.
 - [Kimi K3](https://x.com/lmstudio/status/2081778763822510155?s=20): Now live in LM Studio Bionic.
