@@ -3,6 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+[Meet Muse Code](https://developer.meta.com/ai/products/muse-code/): An agent for your most complex coding workstreams. Build, debug, and ship with Muse Code. Now in beta.
+[Meta Muse Spark 1.2 and Muse Code](https://x.com/MetaforDevs/status/2085090691852664891?s=20).
+[Text-to-Image](https://arena.ai/leaderboard/text-to-image) Arena rankings.
+[Alpamayo 2 Super](https://x.com/JensenHuang/status/2084656303046332747?s=20): NVIDIA's frontier open reasoning model for autonomous vehicles.
+[Liquid AI LFM2.5-2.6B](https://x.com/liquidai/status/2084640701669613906?s=20): An agentic model that runs entirely on-device.
 [Qwen3.8-Max](https://qwen.ai/blog?id=qwen3.8): Sets a New bar for coding and cowork.
 
 
