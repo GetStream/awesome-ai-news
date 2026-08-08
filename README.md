@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Announcing Imagine Image 2.0](https://x.com/grok/status/2085931542262526102?s=20): Next-generation image model with precision editing and crisp text rendering.
 - [MiniMax Code 2.0](https://x.com/MiniMaxAgent/status/2085679716976243045?s=20: Everyday conversations, office work, and long-running complex tasks.
 - [Meet Muse Code](https://developer.meta.com/ai/products/muse-code/): An agent for your most complex coding workstreams. Build, debug, and ship with Muse Code. Now in beta.
 - [Meta Muse Spark 1.2 and Muse Code](https://x.com/MetaforDevs/status/2085090691852664891?s=20).
