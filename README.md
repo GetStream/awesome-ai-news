@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Introducing NVIDIA Nemotron 3.5 Lightning⚡](https://x.com/NVIDIAAI/status/2087162151995629926?s=20): Download and use it in [LM STudio](https://lmstudio.ai/models/nvidia/nemotron-3.5-lightning).
 - [Introducing Muse Glimmer](https://x.com/AIatMeta/status/2086757844544811485?s=20): An open-weight 30B-parameter model optimized for local, always-on agent workflows.
 - [Spotify Xirp](https://x.com/SpotifyEng/status/2086795659651191106?s=20): A vendor-neutral agentic development environment.
 - [Announcing Imagine Image 2.0](https://x.com/grok/status/2085931542262526102?s=20): Next-generation image model with precision editing and crisp text rendering.
