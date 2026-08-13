@@ -3,8 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [DeepSeek Harness v0.1](https://x.com/deepseek_ai/status/2087887408440164663?s=20): Now available in [developer preview](https://deepseek.com/harness/en/).
+- [Launching DeepSeek-V4-Pro](https://x.com/deepseek_ai/status/2087864585504305397?s=20): Major Agent upgrades with strong production gains.
 - [Meet Grok Bot](https://x.ai/bot): AI teammates you can give real work to. Now in [beta](https://x.com/bot/status/2087224798078517251?s=20). 
 - [Introducing Grok 4.6](https://x.com/SpaceXAI/status/2087562800982077492?s=20).
+- [Introducing Gemini 3.7 Flash](https://x.com/GoogleAIStudio/status/2087949211564183730?s=20): A workhorse model for coding and agents.
 - [SL2T by Google DeepMind](): A breakthrough sign language-to-text model powering new features for Deaf and hard-of-hearing users on 
 Android.
 - [Introducing NVIDIA Nemotron 3.5 Lightning⚡](https://x.com/NVIDIAAI/status/2087162151995629926?s=20): Download and use it in [LM STudio](https://lmstudio.ai/models/nvidia/nemotron-3.5-lightning).
