@@ -3,6 +3,10 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Meet Grok Bot](https://x.ai/bot): AI teammates you can give real work to. Now in [beta](https://x.com/bot/status/2087224798078517251?s=20). 
+- [Introducing Grok 4.6](https://x.com/SpaceXAI/status/2087562800982077492?s=20).
+- [SL2T by Google DeepMind](): A breakthrough sign language-to-text model powering new features for Deaf and hard-of-hearing users on 
+Android.
 - [Introducing NVIDIA Nemotron 3.5 Lightning⚡](https://x.com/NVIDIAAI/status/2087162151995629926?s=20): Download and use it in [LM STudio](https://lmstudio.ai/models/nvidia/nemotron-3.5-lightning).
 - [Introducing Muse Glimmer](https://x.com/AIatMeta/status/2086757844544811485?s=20): An open-weight 30B-parameter model optimized for local, always-on agent workflows.
 - [Spotify Xirp](https://x.com/SpotifyEng/status/2086795659651191106?s=20): A vendor-neutral agentic development environment.
