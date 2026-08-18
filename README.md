@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Modly](https://modly3d.app/): Turn any image, any prompt into a 3D model.
+- [Ego Lite](https://lite.ego.app/): The Fastest browser for AI agents to run web automation.
 - [Cursor](https://x.com/cursor_ai/status/2088249881718919393?s=20): Officially joins SpaceX.
 - [DeepSeek Harness v0.1](https://x.com/deepseek_ai/status/2087887408440164663?s=20): Now available in [developer preview](https://deepseek.com/harness/en/).
 - [Launching DeepSeek-V4-Pro](https://x.com/deepseek_ai/status/2087864585504305397?s=20): Major Agent upgrades with strong production gains.
