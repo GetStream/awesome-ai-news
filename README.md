@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Introducing fx](https://x.com/vercel_dev/status/2089828083415355806?s=20): A tiny, open, native [coding agent](https://fx.sh/) from Vercel Labs.
 - [Modly](https://modly3d.app/): Turn any image, any prompt into a 3D model.
 - [Ego Lite](https://lite.ego.app/): The Fastest browser for AI agents to run web automation.
 - [Cursor](https://x.com/cursor_ai/status/2088249881718919393?s=20): Officially joins SpaceX.
