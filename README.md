@@ -34,7 +34,7 @@ Android.
 - [Kimi K3](https://x.com/FireworksAI_HQ/status/2081877943530426636?s=20): Now available in Cursor.
 - [Kimi K3](https://x.com/lmstudio/status/2081778763822510155?s=20): Now live in LM Studio Bionic.
 - [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5).
-- [Mage-VL 4B Tech Report(https://github.com/microsoft/Mage/blob/main/assets/mage_vl_tech_report.pdf).
+- [Mage-VL 4B Tech Report](https://github.com/microsoft/Mage/blob/main/assets/mage_vl_tech_report.pdf).
 - [MetaVoice Mia & Leo](https://metavoice.io/blog/mia-and-leo): AI personalities for revenue calls.
 - [Introducing FLUX 3](https://x.com/bfl_ai/status/2080308988961554582?s=20): One multi-modal model for Image, Video, Audio and Action-Prediction. 
 - [Introducing Cursor Router](https://x.com/cursor_ai/status/2079993729532989500?s=20): Cursor's intelligent model router that selects the right model for the task at hand.
