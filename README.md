@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [SpaceXAI's 1-hour Grok Bot Workshop](https://x.com/0xCodez/status/2090535455372595600?s=20): How to automate your life with Grok Bot in 10 Steps.  
 - [Slack Code is live](https://x.com/Benioff/status/2090240159115853956?s=20): Don’t code alone. Code with agents. 
 - [Bring VS Code](https://terminal-code.com/): Inside your Terminal.
 - [Introducing fx](https://x.com/vercel_dev/status/2089828083415355806?s=20): A tiny, open, native [coding agent](https://fx.sh/) from Vercel Labs.
