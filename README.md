@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [All New Mac Mini](https://x.com/tim_cook/status/2092253780532486557?s=20): Features M6 and M5 Pro and delivers a massive leap in AI performance.
 - [DeepSeek-V4-Flash-Vision-Exp](https://x.com/deepseek_ai/status/2090730032574631962?s=20): Now live on the DeepSeek API Platform! 🚀.
 - [SpaceXAI's 1-hour Grok Bot Workshop](https://x.com/0xCodez/status/2090535455372595600?s=20): How to automate your life with Grok Bot in 10 Steps.  
 - [Slack Code is live](https://x.com/Benioff/status/2090240159115853956?s=20): Don’t code alone. Code with agents. 
