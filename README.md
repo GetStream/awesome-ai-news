@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Gemini 3.5 Transcribe](https://x.com/sundarpichai/status/2092659467284517088?s=20): Build apps that understand user speech / intent, even w/ multiple speakers.
 - [Introducing GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash): Frontier Intelligence, Flash Cost.
 - [Headless Xcode](https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp): From Prompt to Simulator with MCP.
 - [All New Mac Mini](https://x.com/tim_cook/status/2092253780532486557?s=20): Features M6 and M5 Pro and delivers a massive leap in AI performance.
