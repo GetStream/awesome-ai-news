@@ -3,7 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
-- [Introducing PhoneLLM](https://x.com/kwindla/status/2093014818647339026?s=20): An open model for voice agents.[Hugging Face](https://huggingface.co/pipecat-ai/phonellm-alpha-1).
+- [Introducing PhoneLLM](https://x.com/kwindla/status/2093014818647339026?s=20): An open model for voice agents. [Hugging Face](https://huggingface.co/pipecat-ai/phonellm-alpha-1).
 - [Meet Gemini Omni 1.1 Flash ⚡️](https://x.com/GoogleAI/status/2093008998987403303?s=20): Google's newest multimodal model for video generation and editing. 
 - [Nvidia](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/): Closes in on Hugging 🤗 Face acquisition.
 - [𝕏 Chat Agents](https://x.com/benjitaylor/status/2092761644451692955?s=20): Developers can now create agents that work directly within 𝕏 Chat.
