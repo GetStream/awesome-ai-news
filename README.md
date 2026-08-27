@@ -3,7 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [𝕏 Chat Agents](https://x.com/benjitaylor/status/2092761644451692955?s=20): Developers can now create agents that work directly within 𝕏 Chat.
+- [Introducing H3 Max](https://x.com/fal/status/2092710676431020376?s=20): A new post-trained video model by fal Research.
 - [Gemini 3.5 Transcribe](https://x.com/sundarpichai/status/2092659467284517088?s=20): Build apps that understand user speech / intent, even w/ multiple speakers.
+- [Isaac 0.5](https://x.com/perceptroninc/status/2092678357775442103?s=20): 36B dynamic MoE, open weight 🤗 embodied foundation model.
+- [Breeze TTS 2](https://x.com/BreezeBlueX/status/2092647083132273018?s=20): Now open-weight.
 - [Introducing GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash): Frontier Intelligence, Flash Cost.
 - [Headless Xcode](https://artemnovichkov.com/blog/headless-xcode-from-prompt-to-simulator-with-mcp): From Prompt to Simulator with MCP.
 - [All New Mac Mini](https://x.com/tim_cook/status/2092253780532486557?s=20): Features M6 and M5 Pro and delivers a massive leap in AI performance.
