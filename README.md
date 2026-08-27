@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Nvidia](https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/): Closes in on Hugging 🤗 Face acquisition.
 - [𝕏 Chat Agents](https://x.com/benjitaylor/status/2092761644451692955?s=20): Developers can now create agents that work directly within 𝕏 Chat.
 - [Introducing H3 Max](https://x.com/fal/status/2092710676431020376?s=20): A new post-trained video model by fal Research.
 - [Gemini 3.5 Transcribe](https://x.com/sundarpichai/status/2092659467284517088?s=20): Build apps that understand user speech / intent, even w/ multiple speakers.
