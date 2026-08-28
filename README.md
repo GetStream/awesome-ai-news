@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [Anthropic Model Hardware Standard (MHS)](https://www.anthropic.com/news/model-hardware-standard-research-preview): A new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. 
 - [Introducing Hy4 preview](https://hy.tencent.ai/research/hy4-preview): Tencent AI's Open weights: 770B MoE, 49B active, 1M context. Built for real work: code, docs, and analysis, scientific research.
 - [Build web apps in Cursor](https://x.com/cursor_ai/status/2093077548649570777?s=20): Deploy on Vercel. 
 - [Introducing PhoneLLM](https://x.com/kwindla/status/2093014818647339026?s=20): An open model for voice agents. [Hugging Face](https://huggingface.co/pipecat-ai/phonellm-alpha-1).
