@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## August 2026
+- [OpenAI Models](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/): Won't be available in Cursor anymore after November 12, 2026.
 - [Anthropic Model Hardware Standard (MHS)](https://www.anthropic.com/news/model-hardware-standard-research-preview): A new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. 
 - [Introducing Hy4 preview](https://hy.tencent.ai/research/hy4-preview): Tencent AI's Open weights: 770B MoE, 49B active, 1M context. Built for real work: code, docs, and analysis, scientific research.
 - [Build web apps in Cursor](https://x.com/cursor_ai/status/2093077548649570777?s=20): Deploy on Vercel. 
