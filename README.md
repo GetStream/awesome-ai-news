@@ -2,6 +2,10 @@
 
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
+## September 2026
+- [:Claude: Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
+- [Gemini](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini): Introducing agentic video understanding in the [Gemini API](https://ai.google.dev/gemini-api/docs/video-understanding#agentic-video-understanding).
+
 ## August 2026
 - [OpenAI Models](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/): Won't be available in Cursor anymore after November 12, 2026.
 - [Anthropic Model Hardware Standard (MHS)](https://www.anthropic.com/news/model-hardware-standard-research-preview): A new standard for AI agents to safely operate physical equipment in scientific research and advanced manufacturing. 
