@@ -5,6 +5,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## September 2026
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
 - [Gemini](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini): Introducing agentic video understanding in the [Gemini API](https://ai.google.dev/gemini-api/docs/video-understanding#agentic-video-understanding).
+- [Introducing Atlas](https://x.com/theworldlabs/status/2094839756329041984?s=20): The world's first multimodal world model that generates image and video frames with pixel-perfect camera control and reconstructs them in 3D.
 
 ## August 2026
 - [OpenAI Models](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/): Won't be available in Cursor anymore after November 12, 2026.
