@@ -3,8 +3,10 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2026
+- [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
 - [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/): Google's newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity.
+- [MAI-Transcribe-2](https://x.com/MicrosoftAI/status/2095521860184363074?s=20): Microsoft's speech-to-text model to turn any audio into highly accurate text transcripts. [Playground](https://playground.microsoft.ai/).
 - [Inworld Realtime TTS-2](https://x.com/inworld_ai/status/2095186020677353488?s=20): The #1 model on [Artificial Analysis](https://x.com/ArtificialAnlys/status/2095308484967620788?s=20) and the world's fastest TTS.
 - [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/): NVIDIA has agreed to acquire Hugging Face for $12,930,300,000.
 - [Introducing Muse Voice Transcribe](https://research.meta.ai/blog/introducing-muse-voice-transcribe): The first real-time audio perception model developed by Meta Superintelligence Labs.
