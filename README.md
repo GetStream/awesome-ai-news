@@ -5,15 +5,20 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## September 2026
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
+- [Introducing DeepSeek-V4.1-Flash](https://x.com/deepseek_ai/status/2097930608790167907?s=20): The smallest model in DeepSeek's new architecture family, with native visual understanding.
 - [Mistral €3B Series D](https://x.com/MistralAI/status/2097188835897586083?s=20): Announcing a €3B Series D, the largest equity round ever raised by a European tech company, just three years after launch.
-- [9Router](https://github.com/decolua/9router): Unlimited free AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, and Antigravity. 
+- [9Router](https://github.com/decolua/9router): Unlimited free AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, and Antigravity.
+- [Gemini API Docs in AI Studio](https://aistudio.google.com/docs): Get docs right where you’re building.
 - [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/): Google's newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity.
+- [Data Agent in GhatGPT Work](https://openai.com/index/put-data-to-work/): Turn your company’s data into answers, interactive dashboards, and action, just by asking.
 - [MAI-Transcribe-2](https://x.com/MicrosoftAI/status/2095521860184363074?s=20): Microsoft's speech-to-text model to turn any audio into highly accurate text transcripts. [Playground](https://playground.microsoft.ai/).
 - [Inworld Realtime TTS-2](https://x.com/inworld_ai/status/2095186020677353488?s=20): The #1 model on [Artificial Analysis](https://x.com/ArtificialAnlys/status/2095308484967620788?s=20) and the world's fastest TTS.
 - [NVIDIA to Acquire Hugging Face](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/): NVIDIA has agreed to acquire Hugging Face for $12,930,300,000.
 - [Introducing Muse Voice Transcribe](https://research.meta.ai/blog/introducing-muse-voice-transcribe): The first real-time audio perception model developed by Meta Superintelligence Labs.
 - [Gemini](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini): Introducing agentic video understanding in the [Gemini API](https://ai.google.dev/gemini-api/docs/video-understanding#agentic-video-understanding).
 - [Introducing Atlas](https://x.com/theworldlabs/status/2094839756329041984?s=20): The world's first multimodal world model that generates image and video frames with pixel-perfect camera control and reconstructs them in 3D.
+- [Gemini App](https://x.com/Google/status/2098084519320383940?s=20): For Windows.
+- [Introducing SWE-2](https://x.com/cognition/status/2098069235733823965?s=20): Cognition's closest model yet to the frontier.
 
 ## August 2026
 - [OpenAI Models](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/): Won't be available in Cursor anymore after November 12, 2026.
