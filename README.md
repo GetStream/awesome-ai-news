@@ -6,6 +6,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
 - [Introducing DeepSeek-V4.1-Flash](https://x.com/deepseek_ai/status/2097930608790167907?s=20): The smallest model in DeepSeek's new architecture family, with native visual understanding.
+- [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/): Now available in the API.
 - [Mistral €3B Series D](https://x.com/MistralAI/status/2097188835897586083?s=20): Announcing a €3B Series D, the largest equity round ever raised by a European tech company, just three years after launch.
 - [9Router](https://github.com/decolua/9router): Unlimited free AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, and Antigravity.
 - [Gemini API Docs in AI Studio](https://aistudio.google.com/docs): Get docs right where you’re building.
