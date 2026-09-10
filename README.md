@@ -10,6 +10,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [9Router](https://github.com/decolua/9router): Unlimited free AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, and Antigravity.
 - [Gemini API Docs in AI Studio](https://aistudio.google.com/docs): Get docs right where you’re building.
 - [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/): Google's newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity.
+- [Anthropic's Threat Intelligence Report](https://www.anthropic.com/threat-intelligence-report-september-2026): Detecting and countering misuse of AI.
 - [Data Agent in GhatGPT Work](https://openai.com/index/put-data-to-work/): Turn your company’s data into answers, interactive dashboards, and action, just by asking.
 - [MAI-Transcribe-2](https://x.com/MicrosoftAI/status/2095521860184363074?s=20): Microsoft's speech-to-text model to turn any audio into highly accurate text transcripts. [Playground](https://playground.microsoft.ai/).
 - [Inworld Realtime TTS-2](https://x.com/inworld_ai/status/2095186020677353488?s=20): The #1 model on [Artificial Analysis](https://x.com/ArtificialAnlys/status/2095308484967620788?s=20) and the world's fastest TTS.
