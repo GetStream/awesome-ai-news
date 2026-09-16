@@ -6,6 +6,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra): Rethinking skills and prompts.
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
+- [Gemini 3.8 Live and 3.5 Transcribe](https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/): Build real-time voice applications.
+- [Introducing Meta One](https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/): A Subscription service with features and AI to create and connect.
 - [Introducing DeepSeek-V4.1-Flash](https://x.com/deepseek_ai/status/2097930608790167907?s=20): The smallest model in DeepSeek's new architecture family, with native visual understanding.
 - [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/): Now available in the API.
 - [Mistral €3B Series D](https://x.com/MistralAI/status/2097188835897586083?s=20): Announcing a €3B Series D, the largest equity round ever raised by a European tech company, just three years after launch.
