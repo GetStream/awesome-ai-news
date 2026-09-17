@@ -6,7 +6,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra): Rethinking skills and prompts.
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
-- - [Introducing Jev](https://typesafe.ai/): The first (public) System One Model. Jev gives AI the properties of code. 
+- [Introducing Jev](https://typesafe.ai/): The first (public) System One Model. Jev gives AI the properties of code. 
 - [CoreAIKit](https://github.com/john-rocky/coreai-kit): Swift SDK for running chat, vision, and speech models on iPhone and Mac with Apple's Core AI. 
 - [Gemini 3.8 Live and 3.5 Transcribe](https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/): Build real-time voice applications.
 - [Introducing Meta One](https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/): A Subscription service with features and AI to create and connect.
