@@ -11,8 +11,10 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [Gemini 3.8 Live and 3.5 Transcribe](https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/): Build real-time voice applications.
 - [Introducing Meta One](https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/): A Subscription service with features and AI to create and connect.
 - [Introducing DeepSeek-V4.1-Flash](https://x.com/deepseek_ai/status/2097930608790167907?s=20): The smallest model in DeepSeek's new architecture family, with native visual understanding.
+- [Toward Recursive Self-Improvement](https://z.ai/blog/glm-built-its-inference-infrastructure): How GLM Built Its Own Inference Infrastructure.
 - [GPT-Live-1](https://openai.com/index/introducing-gpt-live-1-in-the-api/): Now available in the API.
 - [Mistral €3B Series D](https://x.com/MistralAI/status/2097188835897586083?s=20): Announcing a €3B Series D, the largest equity round ever raised by a European tech company, just three years after launch.
+- [🚀 Meet Qwen3.8-Omni-Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash): Qwen's first omni-modal model built around agentic capabilities.
 - [9Router](https://github.com/decolua/9router): Unlimited free AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, and Antigravity.
 - [Gemini API Docs in AI Studio](https://aistudio.google.com/docs): Get docs right where you’re building.
 - [Introducing Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/): Google's newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity.
