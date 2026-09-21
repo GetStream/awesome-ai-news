@@ -10,7 +10,8 @@ Self-Improvement.
 - [Dream-RSI](https://www.dream-rsi.com/): Recursive Self-Improvement through Evolving Worlds.
 - [Qwen3.8-LiveTranslate](https://qwen.ai/blog?id=qwen3.8-livetranslate): Qwen's next-generation real-time simultaneous interpretation model! 📢
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
-- [Introducing Jev](https://typesafe.ai/): The first (public) System One Model. Jev gives AI the properties of code. 
+- [Introducing Jev](https://typesafe.ai/): The first (public) System One Model. Jev gives AI the properties of code.
+- [Grok 4.7 is Here](https://x.com/SpaceXAI/status/2102069815225586149?s=20): It's a notable improvement over Grok 4.6 at the same price and speed.
 - [CoreAIKit](https://github.com/john-rocky/coreai-kit): Swift SDK for running chat, vision, and speech models on iPhone and Mac with Apple's Core AI. 
 - [Gemini 3.8 Live and 3.5 Transcribe](https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/): Build real-time voice applications.
 - [Introducing Meta One](https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/): A Subscription service with features and AI to create and connect.
