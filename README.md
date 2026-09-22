@@ -3,12 +3,12 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2026
+- [Introducing GPT‑6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/): More ways to bring frontier intelligence into the work you do every day.
 - [Introducing Claude Opus 5.5](https://x.com/claudeai/status/2102435511222890900?s=20): Anthropic's first model in our new Claude 5.5 family.
 - [Introducing Grok 4.7](https://x.ai/news/grok-4-7): SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra): Rethinking skills and prompts.
-- [The Last AI Built by Humans](https://arxiv.org/pdf/2609.11873): Toward Genuine Recursive
-Self-Improvement.
+- [The Last AI Built by Humans](https://arxiv.org/pdf/2609.11873): Toward Genuine Recursive Self-Improvement.
 - [Dream-RSI](https://www.dream-rsi.com/): Recursive Self-Improvement through Evolving Worlds.
 - [Qwen3.8-LiveTranslate](https://qwen.ai/blog?id=qwen3.8-livetranslate): Qwen's next-generation real-time simultaneous interpretation model! 📢
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
