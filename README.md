@@ -4,6 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## September 2026
 - [Introducing Claude Opus 5.5](https://x.com/claudeai/status/2102435511222890900?s=20): Anthropic's first model in our new Claude 5.5 family.
+- [Introducing Grok 4.7](https://x.ai/news/grok-4-7): SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra): Rethinking skills and prompts.
 - [The Last AI Built by Humans](https://arxiv.org/pdf/2609.11873): Toward Genuine Recursive
