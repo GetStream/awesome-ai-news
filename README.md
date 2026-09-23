@@ -5,12 +5,15 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## September 2026
 - [Introducing Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5): Anthropic's first model in the new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.
 - [Introducing GPT‑6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/): More ways to bring frontier intelligence into the work you do every day.
+- [Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/): Google's most expressive audio generation models.
 - [Introducing Grok 4.7](https://x.ai/news/grok-4-7): SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
 - [GPT-6 Astra](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra): Rethinking skills and prompts.
 - [The Last AI Built by Humans](https://arxiv.org/pdf/2609.11873): Toward Genuine Recursive Self-Improvement.
 - [Dream-RSI](https://www.dream-rsi.com/): Recursive Self-Improvement through Evolving Worlds.
 - [Qwen3.8-LiveTranslate](https://qwen.ai/blog?id=qwen3.8-livetranslate): Qwen's next-generation real-time simultaneous interpretation model! 📢
+- [Introducing Drama 3 ](https://x.com/FishAudio/status/2102805658005635294?s=20): Fish Audio's controllable TTS model. 
+- [Introducing FLUX 3 Action](https://x.com/bfl_ai/status/2102816874782241174?s=20): An open weight 7B World Action Model that achieves first place on the RoboLab benchmark.
 - [Claude Fable 5.1 and Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1): The world’s most advanced models for coding and knowledge work.
 - [Introducing Jev](https://typesafe.ai/): The first (public) System One Model. Jev gives AI the properties of code.
 - [Grok 4.7 is Here](https://x.com/SpaceXAI/status/2102069815225586149?s=20): It's a notable improvement over Grok 4.6 at the same price and speed.
