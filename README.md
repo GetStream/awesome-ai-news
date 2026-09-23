@@ -3,7 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2026
-- [Introducing Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5): Anthropic's first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.
+- [Introducing Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5): Anthropic's first model in the new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.
 - [Introducing GPT‑6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/): More ways to bring frontier intelligence into the work you do every day.
 - [Introducing Grok 4.7](https://x.ai/news/grok-4-7): SpaceXAI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models.
 - [GPT 6 Astra](https://openai.com/index/gpt-6-astra/): OpenAI's new generation of intelligence and the world’s most aligned model.
