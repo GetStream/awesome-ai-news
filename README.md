@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## September 2026
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/): Google's next era of frontier intelligence.
 - [OpenAI Dev Day 2026](https://openai.com/news/company-announcements/): Recap.
 - [Introducing OpenAI dots](https://openai.com/index/introducing-dots/): Dots are remarkably capable, always-on agents built to handle everything.
 - [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/): Near-Astra intelligence for a fifth of the price.
