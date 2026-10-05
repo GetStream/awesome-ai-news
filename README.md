@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Announcing d1 with vision](https://x.com/liquidai/status/2107161990808674404?s=20): 👁️👁️ Liquid AI's first decision model now supports images, text or both as inputs. 
+- [Introducing HyperFrames Studio](https://x.com/HyperFrames_/status/2107149824189698558?s=20): A video editor built for agents, from scratch.
 - [Kolibri](https://x.com/Aleph__Alpha/status/2106306843052052616?s=20): A Sovereign European Model on the Pareto Frontier. [Tech Report](https://aleph-alpha.com/downloads/tech-report.pdf).
 - [Introducing Strands Decider 2B](https://strandsagents.com/blog/introducing-strands-decider/): A small, open source, decision model.
 - [Decider-2b-vision](https://huggingface.co/mlboydaisuke/decider-2b-vision-CoreAI): A Core AI decision model for photos (Mapika, Apache-2.0).
