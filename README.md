@@ -5,8 +5,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## October 2026
 - [Kolibri](https://x.com/Aleph__Alpha/status/2106306843052052616?s=20): A Sovereign European Model on the Pareto Frontier. [Tech Report](https://aleph-alpha.com/downloads/tech-report.pdf).
 - [Introducing Strands Decider 2B](https://strandsagents.com/blog/introducing-strands-decider/): A small, open source, decision model.
--[Decider-2b-vision (Core AI)](https://huggingface.co/mlboydaisuke/decider-2b-vision-CoreAI): A decision model for photos (Mapika, Apache-2.0).
--[Cloudflare's Decision Models](https://ollama.com/library/clef-flash): Now available on Ollama.
+- [Decider-2b-vision](https://huggingface.co/mlboydaisuke/decider-2b-vision-CoreAI): A Core AI decision model for photos (Mapika, Apache-2.0).
+- [Cloudflare's Decision Models](https://ollama.com/library/clef-flash): Now available on Ollama.
 - [Jev + Appl Foundation Models](https://github.com/peterfriese/system-one-foundation-models): A lightweight, native Swift 6 bridge integrating TypeSafe AI's Jev System One decision model into Apple's Foundation Models framework.
 - [GLM 5.3 and GLM 5.3 Flash](https://x.com/cursor_ai/status/2105787358557999585?s=20): Now available in Cursor.
 - [Matt MCP](https://x.com/josesaezmerino/status/2105731299516526784?s=20): Use Claude and Codex to animate your project live, and then intervene yourself for all the refinement and human touch.
