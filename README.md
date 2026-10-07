@@ -3,6 +3,11 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing OpenAi Decisions API](https://developers.openai.com/api/docs/guides/decisions): The Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API.
+- [Introducing EmbeddingGemma 2! 🚀](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/): An open, lightweight multimodal embedding model from Google DeepMind.
+- [Introducing @NanoBanana 2.1 🍌](https://x.com/GoogleAIStudio/status/2107501303890915550): Try it out in [ai.studio](https://ai.studio/).
+- [Claude in Google Docs, Sheets, and Slides](https://workspace.google.com/marketplace/app/claude/12459801340): Claude drafts, edits, and analyzes your work inside Google Docs™, Google Sheets™, and Google Slides™.
+- [Meet Mistral Large 4, aka Le Chonk.](https://mistral.ai/news/mistral-large-4/): A 1T parameters, natively multimodal, 49B active. It is the best open weights model from the US or Europe on aggregated benchmarks.
 - [Introducing Beam](https://reflection.ai/blog/introducing-beam): Reflection’s 501B open-weight model. [X post](https://x.com/reflection_ai/status/2107186849370247235?s=20).
 - [Announcing d1 with vision](https://x.com/liquidai/status/2107161990808674404?s=20): 👁️👁️ Liquid AI's first decision model now supports images, text or both as inputs. 
 - [Introducing HyperFrames Studio](https://x.com/HyperFrames_/status/2107149824189698558?s=20): A video editor built for agents, from scratch.
