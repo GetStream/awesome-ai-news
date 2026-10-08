@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Google Labs Playground](https://labs.google/playground): Create custom games in minutes.
 - [Introducing OpenAI Decisions API](https://developers.openai.com/api/docs/guides/decisions): The Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API.
 - [Introducing EmbeddingGemma 2! 🚀](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/): An open, lightweight multimodal embedding model from Google DeepMind.
 - [Introducing @NanoBanana 2.1 🍌](https://x.com/GoogleAIStudio/status/2107501303890915550): Try it out in [ai.studio](https://ai.studio/).
