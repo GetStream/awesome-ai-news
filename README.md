@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing Claude Dashboards and Claude Motion](https://youtu.be/en0GuyhieQk?si=-XTkrMHbY7-3tqSz): Ask Claude to turn your data into live dashboards and your ideas into animated explainers. [X post](https://x.com/claudeai/status/2108271552991252810?s=20).
+- [Introducing Claude Haiku 5.5](https://x.com/claudeai/status/2107894039626277339?s=20): The cheapest, fastest, and most capable small model we’ve ever released.
 - [Introducing Unity Spark](https://x.com/unitygames/status/2107805373918835075?s=20): A new way to create a game, iterate on it with others, publish it, and play it - all without writing a line of code.
 - [Google Labs Playground](https://labs.google/playground): Create custom games in minutes.
 - [Introducing OpenAI Decisions API](https://developers.openai.com/api/docs/guides/decisions): The Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API.
