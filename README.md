@@ -4,7 +4,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## October 2026
 - [Introducing Muse Wonder](https://research.meta.ai/blog/muse-wonder): Meta AI's new family of frontier models with state-of-the-art performance for personal and professional agentic work.
-- [Reverse Engineer Anything](https://github.com/morluto/rea/): Reverse engineer anything with agents, from app behavior down to native binaries. [REA Tools](https://rea.tools/). 
+- [Reverse Engineer Anything](https://github.com/morluto/rea/): Reverse engineer anything with agents, from app behavior down to native binaries. [REA Tools](https://rea.tools/).
+- [Introducing Microsoft-Decision-1](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/): Microsoft's new model for fast decision-making.
 - [Introducing Claude Dashboards and Claude Motion](https://youtu.be/en0GuyhieQk?si=-XTkrMHbY7-3tqSz): Ask Claude to turn your data into live dashboards and your ideas into animated explainers. [X post](https://x.com/claudeai/status/2108271552991252810?s=20).
 - [Introducing Claude Haiku 5.5](https://x.com/claudeai/status/2107894039626277339?s=20): The cheapest, fastest, and most capable small model Anthropic ever released.
 - [Introducing Unity Spark](https://x.com/unitygames/status/2107805373918835075?s=20): A new way to create a game, iterate on it with others, publish it, and play it - all without writing a line of code.
