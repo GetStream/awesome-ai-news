@@ -3,12 +3,15 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/): Built to solve your hardest problems.
 - [Introducing Muse Wonder](https://research.meta.ai/blog/muse-wonder): Meta AI's new family of frontier models with state-of-the-art performance for personal and professional agentic work.
 - [Reverse Engineer Anything](https://github.com/morluto/rea/): Reverse engineer anything with agents, from app behavior down to native binaries. [REA Tools](https://rea.tools/).
 - [Introducing Microsoft-Decision-1](https://commandline.microsoft.com/microsoft-decision-1-model-foundry/): Microsoft's new model for fast decision-making.
 - [Introducing Claude Dashboards and Claude Motion](https://youtu.be/en0GuyhieQk?si=-XTkrMHbY7-3tqSz): Ask Claude to turn your data into live dashboards and your ideas into animated explainers. [X post](https://x.com/claudeai/status/2108271552991252810?s=20).
 - [Introducing Claude Haiku 5.5](https://x.com/claudeai/status/2107894039626277339?s=20): The cheapest, fastest, and most capable small model Anthropic ever released.
 - [Introducing Unity Spark](https://x.com/unitygames/status/2107805373918835075?s=20): A new way to create a game, iterate on it with others, publish it, and play it - all without writing a line of code.
+- [Artificial Analysis Decision Index](https://artificialanalysis.ai/evaluations/artificial-analysis-decision-index): A composite index testing decision models across classification, tool calling, knowledge and reasoning.
+- [Apple HomeView](https://www.apple.com/apple-homeview/): Comes with a built-in Siri AI integration.
 - [Google Labs Playground](https://labs.google/playground): Create custom games in minutes.
 - [Introducing OpenAI Decisions API](https://developers.openai.com/api/docs/guides/decisions): The Decisions API makes decisions up to 10x faster than GPT-6 Luna through the Responses API.
 - [Introducing EmbeddingGemma 2! 🚀](https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/): An open, lightweight multimodal embedding model from Google DeepMind.
