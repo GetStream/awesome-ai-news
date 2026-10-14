@@ -3,6 +3,8 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Jev Composable Images and Box Type](https://typesafe.ai/blog/jev-1-14): You can send images in a System One request. Jev also supports a box type, a System One question type for finding where something is in an image
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/blog/ultramarine): Scaling Non-Verifiable RL.
 - [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/): Built to solve your hardest problems.
 - [Introducing Muse Wonder](https://research.meta.ai/blog/muse-wonder): Meta AI's new family of frontier models with state-of-the-art performance for personal and professional agentic work.
 - [Reverse Engineer Anything](https://github.com/morluto/rea/): Reverse engineer anything with agents, from app behavior down to native binaries. [REA Tools](https://rea.tools/).
