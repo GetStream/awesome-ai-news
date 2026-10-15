@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing Muse Spark Open](https://research.meta.ai/blog/muse-spark-open): The Most Capable US Open‑Weight Model.
 - [Jev Composable Images and Box Type](https://typesafe.ai/blog/jev-1-14): You can send images in a System One request. Jev also supports a box type, a System One question type for finding where something is in an image
 - [Ultramarine 1 Flash](https://www.paperinstruments.com/blog/ultramarine): Scaling Non-Verifiable RL.
 - [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/): Built to solve your hardest problems.
