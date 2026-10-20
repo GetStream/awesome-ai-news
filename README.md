@@ -3,7 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing Voxtral 3](https://x.com/MistralAI/status/2112574615318876178?s=20): State-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API. [Blog](https://mistral.ai/news/voxtral-3/) 🧵
 - [Introducing DeepInfer](https://x.com/deepseek_ai/status/2112476496283775135?s=20): DeepSeek's in-house inference framework, now fully [open source](https://github.com/deepseek-ai/DeepInfer)!.
+- [Introducing Eleven Realtime](https://x.com/ElevenLabs/status/2112550782063247521?s=20): ElevenLab's new class of Speech to Speech models.
 - [Introducing Timestral](https://mistral.ai/news/timestral/): Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters.
 - [Introducing Muse Spark Open](https://research.meta.ai/blog/muse-spark-open): The Most Capable US Open‑Weight Model.
 - [Open-Sourcing 5 Ming-3.0 Models](https://x.com/AntLingAGI/status/2112210824848928942?s=20): Download Ming-3.0 speech family of models on Hugging Face & ModelScope.
