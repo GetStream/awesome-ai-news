@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing DeepInfer](https://x.com/deepseek_ai/status/2112476496283775135?s=20): DeepSeek's in-house inference framework, now fully [open source](https://github.com/deepseek-ai/DeepInfer)!.
 - [Introducing Timestral](https://mistral.ai/news/timestral/): Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters.
 - [Introducing Muse Spark Open](https://research.meta.ai/blog/muse-spark-open): The Most Capable US Open‑Weight Model.
 - [Open-Sourcing 5 Ming-3.0 Models](https://x.com/AntLingAGI/status/2112210824848928942?s=20): Download Ming-3.0 speech family of models on Hugging Face & ModelScope.
