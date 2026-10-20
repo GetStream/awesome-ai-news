@@ -5,7 +5,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## October 2026
 - [Introducing Timestral](https://mistral.ai/news/timestral/): Mistral’s first family of time-series foundation models, delivers state-of-the-art probabilistic, multivariate forecasts with just 209M parameters.
 - [Introducing Muse Spark Open](https://research.meta.ai/blog/muse-spark-open): The Most Capable US Open‑Weight Model.
-- [open-sourcing 5 Ming-3.0 models](https://x.com/AntLingAGI/status/2112210824848928942?s=20): Download Ming-3.0 speech family of models on Hugging Face & ModelScope.
+- [Open-Sourcing 5 Ming-3.0 Models](https://x.com/AntLingAGI/status/2112210824848928942?s=20): Download Ming-3.0 speech family of models on Hugging Face & ModelScope.
 - [Muse Glimmer Tech Report](https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/): An On-Device Agentic Model.
 - [Introducing Clairic](https://blog.cloudflare.com/clairic-extraction-model/): Cloudflare's new System One class of extraction models.
 - [Jev Composable Images and Box Type](https://typesafe.ai/blog/jev-1-14): You can send images in a System One request. Jev also supports a box type, a System One question type for finding where something is in an image
