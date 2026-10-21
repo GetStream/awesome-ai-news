@@ -4,6 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## October 2026
 - [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio/): A platform that helps biopharma teams coordinate the complex process of drug development.
+- [Meet Underdog Bark 3.0](https://underdog.ai/bark): Bark turns your voice into text on your Mac.
 - [Open-Sourcing Phonon](https://gradium.ai/blog/release-phonon-open-weight): A Suite of Frontier On-Device TTS Models.
 - [Introducing Voxtral 3](https://x.com/MistralAI/status/2112574615318876178?s=20): State-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API. [Blog](https://mistral.ai/news/voxtral-3/) 🧵
 - [Introducing DeepInfer](https://x.com/deepseek_ai/status/2112476496283775135?s=20): DeepSeek's in-house inference framework, now fully [open source](https://github.com/deepseek-ai/DeepInfer)!.
