@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing Claude Duet](https://claude.com/resources/articles/claude-duet): A new app where Claude works as a proactive agent.
 - [Introducing OCRia-1](https://www.llamaindex.ai/blog/parse-ocria-1): The world’s best document parsing model by LlamaIndex.
 - [Introducing Flint](https://x.com/RichardSocher/status/2112944385415426249?s=20): Local model with faster inference and strong coding performance built with automated research.
 - [Qwen-Audio-3.1-Realtime](https://x.com/TONGYI_SpeechAI/status/2112815751891751386?s=20): [Paper](https://arxiv.org/abs/2609.25176), Project's [Page](https://qwenaudio.github.io/qwen-audio-3.1-realtime/), Voice Agent Harness on [GitHub](https://github.com/QwenAudio/qwen-audio-agent).
