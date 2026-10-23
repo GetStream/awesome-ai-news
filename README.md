@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Dessa](https://block.xyz/dessa): A full-duplex speech model by [@jack](https://x.com/jack/status/2113697902916751661?s=20) and Block.
 - [Introducing Claude Duet](https://claude.com/resources/articles/claude-duet): A new app where Claude works as a proactive agent.
 - [Introducing OCRia-1](https://www.llamaindex.ai/blog/parse-ocria-1): The world’s best document parsing model by LlamaIndex.
 - [Introducing Flint](https://x.com/RichardSocher/status/2112944385415426249?s=20): Local model with faster inference and strong coding performance built with automated research.
