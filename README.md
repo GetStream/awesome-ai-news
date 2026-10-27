@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing Fish Audio Realtime STT](https://x.com/FishAudio/status/2115126383668027643?s=20): A new speech-to-text model from Fish Audio. 
 - [Genie 4](https://x.com/GoogleDeepMind/status/2115114028338962672?s=20): An interactive world model from Google DeepMind.
 - [Introducing 𝙻𝙵𝙼𝟹](https://x.com/liquidai/status/2115128329003303107?s=20): Liquid AI's new generation of Liquid Foundation Models.
 - [agent-qa v0.2.3](https://github.com/vostride/agent-qa/releases/tag/v0.2.3): Natural-language testing for web, Android and iOS, with advanced memidex memory and self-improvement.
