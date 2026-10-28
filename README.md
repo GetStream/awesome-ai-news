@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Meet NVIDIA Nemotron 3.5 Transcribe 🎙️](https://x.com/NVIDIAAI/status/2115462300241141882?a=hAc2IbQJ8OyTIZULOq8&s=20): An open-weight, promptable 30B MoE model with ~4B active parameters that brings transcription in 40 languages, speaker attribution, translation, contextual prompting, and audio understanding into one checkpoint.
 - [Introducing Nativ](https://www.neywalabs.ai/products/nativ): Run AI locally on your Mac.
 - [Introducing Fish Audio Realtime STT](https://x.com/FishAudio/status/2115126383668027643?s=20): A new speech-to-text model from Fish Audio. 
 - [Genie 4](https://x.com/GoogleDeepMind/status/2115114028338962672?s=20): An interactive world model from Google DeepMind.
