@@ -4,6 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## October 2026
 - [Introducing Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/): State-of-the-art cybersecurity and long horizon capabilities model.
+- [Particle AI](https://particle.ai/): Inference for developers.
 - [Meet NVIDIA Nemotron 3.5 Transcribe 🎙️](https://x.com/NVIDIAAI/status/2115462300241141882?a=hAc2IbQJ8OyTIZULOq8&s=20): An open-weight, promptable 30B MoE model with ~4B active parameters that brings transcription in 40 languages, speaker attribution, translation, contextual prompting, and audio understanding into one checkpoint.
 - [Introducing AssemblyAI-TTS-1](https://x.com/AssemblyAI/status/2115470615583056042?a=7hLSrdpxFeZcLtvbOA0&s=20): A text-to-speech model. Natural speech for voice agents, streaming in 90 ms, at $15 per million characters. 
 - [Introducing Nativ](https://www.neywalabs.ai/products/nativ): Run AI locally on your Mac.
