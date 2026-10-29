@@ -8,7 +8,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [Meet NVIDIA Nemotron 3.5 Transcribe 🎙️](https://x.com/NVIDIAAI/status/2115462300241141882?a=hAc2IbQJ8OyTIZULOq8&s=20): An open-weight, promptable 30B MoE model with ~4B active parameters that brings transcription in 40 languages, speaker attribution, translation, contextual prompting, and audio understanding into one checkpoint.
 - [Introducing AssemblyAI-TTS-1](https://x.com/AssemblyAI/status/2115470615583056042?a=7hLSrdpxFeZcLtvbOA0&s=20): A text-to-speech model. Natural speech for voice agents, streaming in 90 ms, at $15 per million characters. 
 - [Introducing Nativ](https://www.neywalabs.ai/products/nativ): Run AI locally on your Mac.
-- [Introducing Fish Audio Realtime STT](https://x.com/FishAudio/status/2115126383668027643?s=20): A new speech-to-text model from Fish Audio. 
+- [Introducing Fish Audio Realtime STT](https://x.com/FishAudio/status/2115126383668027643?s=20): A new speech-to-text model from Fish Audio.
+- [Pipecat is Joining Deepgram](https://x.com/kwindla/status/2115791491586986432?a=1OY7hSlPHDpXp12PIGg&s=20): Deepgram is acquiring Daily and establishing an independent Pipecat Foundation.
 - [Genie 4](https://x.com/GoogleDeepMind/status/2115114028338962672?s=20): An interactive world model from Google DeepMind.
 - [Introducing 𝙻𝙵𝙼𝟹](https://x.com/liquidai/status/2115128329003303107?s=20): Liquid AI's new generation of Liquid Foundation Models.
 - [agent-qa v0.2.3](https://github.com/vostride/agent-qa/releases/tag/v0.2.3): Natural-language testing for web, Android and iOS, with advanced memidex memory and self-improvement.
