@@ -3,6 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Introducing Audio8-TTS-Realistic](https://x.com/SamuelZengML/status/2115881491645554870?a=8C9a2t-jqEUmzUdNadY&s=20): [Edge0_AI](https://edge0.ai/)
+’s new open-weight speech model: realistic, zero-shot voice cloning in just 0.6B parameters.
+- [Introducing Phonic-1](https://x.com/moinnadeem/status/2115830871014183088?a=YfpP2LajWyfuUBE-s_I&s=20): An advanced speech-to-speech model for agentic tasks from [Phonic AI](https://phonic.ai/blog/phonic-1). 
 - [Introducing Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/): State-of-the-art cybersecurity and long horizon capabilities model.
 - [Particle AI](https://particle.ai/): Inference for developers.
 - [Meet NVIDIA Nemotron 3.5 Transcribe 🎙️](https://x.com/NVIDIAAI/status/2115462300241141882?a=hAc2IbQJ8OyTIZULOq8&s=20): An open-weight, promptable 30B MoE model with ~4B active parameters that brings transcription in 40 languages, speaker attribution, translation, contextual prompting, and audio understanding into one checkpoint.
