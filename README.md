@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## October 2026
+- [Canva Brush](https://x.com/canva/status/2115885750013321704?a=lts9AZ4_2ZQ-2necmmQ&s=20): A vision-language model for design. 🖌️
 - [Introducing Audio8-TTS-Realistic](https://x.com/SamuelZengML/status/2115881491645554870?a=8C9a2t-jqEUmzUdNadY&s=20): [Edge0_AI](https://edge0.ai/)’s new open-weight speech model: realistic, zero-shot voice cloning in just 0.6B parameters.
 - [Introducing Phonic-1](https://x.com/moinnadeem/status/2115830871014183088?a=YfpP2LajWyfuUBE-s_I&s=20): An advanced speech-to-speech model for agentic tasks from [Phonic AI](https://phonic.ai/blog/phonic-1). 
 - [Introducing Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/): State-of-the-art cybersecurity and long horizon capabilities model.
