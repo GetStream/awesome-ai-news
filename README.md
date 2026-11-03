@@ -5,6 +5,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 ## November 2026
 - [Introducing the Hume Audio Decision API](https://x.com/hume_ai/status/2117285608745820372?a=bFO1jGqOeLT_94wOdHg&s=20): Ask anything: How many speakers? Is anyone laughing? Is the caller frustrated?.
 - [MOSS-Live](https://x.com/MOSS_Global/status/2117244034066632755?a=i0T_h7UJmi96-B7Julc&s=20): A full-duplex, real-time voice AI can listen, speak, and get things done at the same time. 🎙️
+- [Speko](https://speko.ai/): The Router for Voice AI
+- [Pi(co) Vo(ice)](https://x.com/EmperoAI/status/2117017538836226485?a=vIXTI67qhj5YOS6hFhw&s=20): Two English voices in 1.4M parameters, vocoder included. The whole model is 5.8 MB and runs on a CPU, no PyTorch or GPU.
 
 ## October 2026
 - [Canva Brush](https://x.com/canva/status/2115885750013321704?a=lts9AZ4_2ZQ-2necmmQ&s=20): A vision-language model for design. 🖌️
