@@ -3,6 +3,7 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## November 2026
+- [GPT-Image-2.6 Flare and Sunburst](https://x.com/OpenAI/status/2118124964197114039?a=7Nx7IwGjmcVw45hdld8&s=20): Two new image models for developers to generate images in as little as six seconds and bring higher-quality generation across edits. Image markup and SVG exports give you more ways to refine and use what you create.
 - [Introducing the Hume Audio Decision API](https://x.com/hume_ai/status/2117285608745820372?a=bFO1jGqOeLT_94wOdHg&s=20): Ask anything: How many speakers? Is anyone laughing? Is the caller frustrated?.
 - [MOSS-Live](https://x.com/MOSS_Global/status/2117244034066632755?a=i0T_h7UJmi96-B7Julc&s=20): A full-duplex, real-time voice AI can listen, speak, and get things done at the same time. 🎙️
 - [Remotion AI Video Editing](https://x.com/Remotion/status/2117615187339673650?a=PjlPnFFDY_F5KiOhbSo&s=20): Iterate faster on agent-generated videos with a better timeline and more interactively.
