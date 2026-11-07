@@ -4,6 +4,13 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## November 2026
 - [GPT-Image-2.6 Flare and Sunburst](https://x.com/OpenAI/status/2118124964197114039?a=7Nx7IwGjmcVw45hdld8&s=20): Two new [image models](https://openai.com/index/introducing-images-2-6/) for developers to generate images in as little as six seconds and bring higher-quality generation across edits. Image markup and SVG exports give you more ways to refine and use what you create.
+- [Atomarine](https://x.com/DimitrisKoute/status/2118825867740885459?a=UnOWr5NG1TafCVQWbBY&s=20): Floating data center powered by nuclear ships at sea.
+- [Cursor Live Apps](https://x.com/cursor_ai/status/2118458629091426304?a=Ch2_Y3xUr_zp8pXsYZQ&s=20): Build live apps in Cursor and share with a link.
+- [Introducing personal finance in Claude](https://x.com/claudeai/status/2118403114890137895?a=DFSdlVWYAB2_xcTqdJ0&s=20): Now in beta in the US.
+- [Gemini Omni Flash 1.2](https://x.com/OfficialLoganK/status/2118390838434693281?a=E4huil65TTvNpno0JE8&s=20): Updated video generation model from Google DeepMind. Fast and cost-effective with longer clips.
+- [GPT-6 Cyber](https://x.com/OpenAI/status/2118390190246879554?a=UdSLJ01pjbWjc1SsrOE&s=20): OpenAI's major advancement in security research.
+- [Introducing Cecura Bench](https://x.com/tarush_agarwal_/status/2118389517082349883?a=UCtIfiyJCkBPTc8DKUk&s=20): https://benchmarks.cekura.ai/oice AI benchmarks.
+- [New Video Editing in Remotion](https://x.com/Remotion/status/2117615187339673650?a=b5HTl5M0fwqU81pINDM&s=20): Iterate faster on agent-generated videos with a better timeline and more interactivity. 
 - [Introducing the Hume Audio Decision API](https://x.com/hume_ai/status/2117285608745820372?a=bFO1jGqOeLT_94wOdHg&s=20): Ask anything: How many speakers? Is anyone laughing? Is the caller frustrated?.
 - [MOSS-Live](https://x.com/MOSS_Global/status/2117244034066632755?a=i0T_h7UJmi96-B7Julc&s=20): A full-duplex, real-time voice AI can listen, speak, and get things done at the same time. 🎙️
 - [Remotion AI Video Editing](https://x.com/Remotion/status/2117615187339673650?a=PjlPnFFDY_F5KiOhbSo&s=20): Iterate faster on agent-generated videos with a better timeline and more interactively.
