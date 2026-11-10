@@ -4,6 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## November 2026
 - [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://x.com/claudeai/status/2119867114450268322?a=rh5QeiWd27KdCQgfwCk&s=20): Designed to tackle the most daunting technical challenges.
+- [Claude Whiteboards, Claude Sheets, and Claude Data](https://x.com/claudeai/status/2120206365759094857?a=hy6TUpTmLNwsImuqLjQ&s=20): Now rolling out.
 - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/): Now available. 
 - [Muse Ember](https://research.meta.ai/blog/muse-ember): Meta AI's most smallest model.
 - [ModRetro Chromatic (Codex Edition)](https://openai.com/supply/co-lab/chromatic/): Build it with Codex. Play it on Chromatic.
