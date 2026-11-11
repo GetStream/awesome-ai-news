@@ -20,6 +20,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 - [MOSS-Live](https://x.com/MOSS_Global/status/2117244034066632755?a=i0T_h7UJmi96-B7Julc&s=20): A full-duplex, real-time voice AI can listen, speak, and get things done at the same time. 🎙️
 - [Remotion AI Video Editing](https://x.com/Remotion/status/2117615187339673650?a=PjlPnFFDY_F5KiOhbSo&s=20): Iterate faster on agent-generated videos with a better timeline and more interactively.
 - [Speko](https://speko.ai/): The Router for Voice AI.
+- [Siri AI](https://developer.apple.com/news/?id=gdk2umrf): Now open to all developers. 
 - [Decision layer for voice AI](https://tazolabs.com/): Decision layer for voice AI.
 - [Pi(co) Vo(ice)](https://x.com/EmperoAI/status/2117017538836226485?a=vIXTI67qhj5YOS6hFhw&s=20): Two English voices in 1.4M parameters, vocoder included. The whole model is 5.8 MB and runs on a CPU, no PyTorch or GPU.
 
