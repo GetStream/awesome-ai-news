@@ -3,6 +3,9 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## November 2026
+- [Introducing Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/): Hydrogen brings cutting-edge intelligence to everyone.
+- [Introducing Claude Meetings](https://claude.com/resources/articles/claude-meetings): Add Claude to your team’s video call, and it builds docs, whiteboards, and other artifacts with you while you’re still talking.
+- [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/): Fast, calibrated multimodal decisions.
 - [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://x.com/claudeai/status/2119867114450268322?a=rh5QeiWd27KdCQgfwCk&s=20): Designed to tackle the most daunting technical challenges.
 - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/): Fast, calibrated multimodal decisions.
 - [Claude Whiteboards, Claude Sheets, and Claude Data](https://x.com/claudeai/status/2120206365759094857?a=hy6TUpTmLNwsImuqLjQ&s=20): Now rolling out.
