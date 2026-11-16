@@ -4,8 +4,11 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## November 2026
 - [Introducing Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/): Hydrogen brings cutting-edge intelligence to everyone.
+- [📢 Meet Qwen4-Max](https://x.com/Alibaba_Qwen/status/2122148127520289151?a=AxJSgFKBt-c6RUxljVU&s=20): Your new AI teammate for work, creativity, and discovery.
 - [Introducing Claude Meetings](https://claude.com/resources/articles/claude-meetings): Add Claude to your team’s video call, and it builds docs, whiteboards, and other artifacts with you while you’re still talking.
 - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/): Fast, calibrated multimodal decisions.
+- [⚡Meet Hy4 Flash](https://hy.tencent.ai/research/hy4-flash): The cheapest model for everyday productivity. Matches Claude Haiku 5.5 (high) on daily work (human blind tests)
+- [Introducing json-render for Swift](https://x.com/ctatedev/status/2122111482737705293?a=4lQtoYNTXQxUk985gYo&s=20): Generative UI, now native on iOS and macOS.
 - [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://x.com/claudeai/status/2119867114450268322?a=rh5QeiWd27KdCQgfwCk&s=20): Designed to tackle the most daunting technical challenges.
 - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/): Fast, calibrated multimodal decisions.
 - [Claude Whiteboards, Claude Sheets, and Claude Data](https://x.com/claudeai/status/2120206365759094857?a=hy6TUpTmLNwsImuqLjQ&s=20): Now rolling out.
