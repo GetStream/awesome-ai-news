@@ -3,6 +3,14 @@
 AI is changing faster than developers can keep up. This repo is a monthly collection of AI news and resources for developers.
 
 ## November 2026
+- [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/): Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
+- [Genie 4](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/): Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery.
+- [Inworld Voice Isolator and SAVA](https://inworld.ai/open-source): Voice Isolator and SAVA (Semantic-Acoustic Voice Activity) models.
+- [Introducing Trelis/Duplex-0](https://huggingface.co/Trelis/duplex-0): An Apache 2-licensed speech-to-speech prototype model and training scripts.
+- [Interact-0](https://interact.inc/blog/interact-0/): A full-duplex speech model designed around human interaction.
+- [Microsoft MAI Realtime 1](https://microsoft.ai/news/introducing-mai-realtime-1/): Leading voice
+AI at $0.01 per audio minute
+- [Sophon-Realtime 4B](https://huggingface.co/adventists-ai/Sophon-Realtime-4B-Flash): A open-source (Apache-2.0) full-duplex voice AI on one consumer GPU.
 - [Introducing Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/): Hydrogen brings cutting-edge intelligence to everyone.
 - [📢 Meet Qwen4-Max](https://x.com/Alibaba_Qwen/status/2122148127520289151?a=AxJSgFKBt-c6RUxljVU&s=20): Your new AI teammate for work, creativity, and discovery.
 - [Introducing Claude Meetings](https://claude.com/resources/articles/claude-meetings): Add Claude to your team’s video call, and it builds docs, whiteboards, and other artifacts with you while you’re still talking.
