@@ -4,6 +4,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## November 2026
 - [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/): Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
+- [gemma.ai](https://gemma.ai/): Explore Gemma Open Models.
+- [Aura by Kyutai](https://kyutai.org/blog/2026-11-20-aura/): A 1.3B speech-to-video generative model that runs in real time on a single GPU (the current demo runs at 480px). 
 - [Genie 4](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/): Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery.
 - [Inworld Voice Isolator and SAVA](https://inworld.ai/open-source): Voice Isolator and SAVA (Semantic-Acoustic Voice Activity) models.
 - [Introducing Trelis/Duplex-0](https://huggingface.co/Trelis/duplex-0): An Apache 2-licensed speech-to-speech prototype model and training scripts.
