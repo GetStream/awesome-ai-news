@@ -19,7 +19,7 @@ AI at $0.01 per audio minute
 - [Introducing json-render for Swift](https://x.com/ctatedev/status/2122111482737705293?a=4lQtoYNTXQxUk985gYo&s=20): Generative UI, now native on iOS and macOS.
 - [Introducing Claude Fable 5.2 and Claude Mythos 5.2](https://x.com/claudeai/status/2119867114450268322?a=rh5QeiWd27KdCQgfwCk&s=20): Designed to tackle the most daunting technical challenges.
 - [Gemini Decisions API](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/): Fast, calibrated multimodal decisions.
-- [Claude Whiteboards, Claude Sheets, and Claude Data](https://x.com/claudeai/status/2120206365759094857?a=hy6TUpTmLNwsImuqLjQ&s=20): Now rolling out
+- [Claude Whiteboards, Claude Sheets, and Claude Data](https://x.com/claudeai/status/2120206365759094857?a=hy6TUpTmLNwsImuqLjQ&s=20): Now rolling out.
 - [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/): Now available. 
 - [Muse Ember](https://research.meta.ai/blog/muse-ember): Meta AI's most smallest model.
 - [ModRetro Chromatic (Codex Edition)](https://openai.com/supply/co-lab/chromatic/): Build it with Codex. Play it on Chromatic.
