@@ -4,6 +4,8 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## November 2026
 - [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/): Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
+- [Embo AI](https://x.com/danijar/status/2124911019562811820?a=yUNsM-08vGGh0sayG18&s=20): Building the brain of a humanoid workforce.
+- [OpenAI OpenWorks](https://openai.com/openworks/): Showing local and small businesses how to benefit and use AI.
 - [gemma.ai](https://gemma.ai/): Explore Gemma Open Models.
 - [Aura by Kyutai](https://kyutai.org/blog/2026-11-20-aura/): A 1.3B speech-to-video generative model that runs in real time on a single GPU (the current demo runs at 480px). 
 - [Genie 4](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/): Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery.
