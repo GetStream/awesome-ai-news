@@ -4,6 +4,7 @@ AI is changing faster than developers can keep up. This repo is a monthly collec
 
 ## November 2026
 - [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/): Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
+- [Agentic Manipulation Policies (AMP1 by Apple)](https://apple-aiml-research.github.io/ml-amp/#): AMP1 is a reference harness that provides visual observations, code execution, and direct control of manipulator motion. [Paper](https://arxiv.org/pdf/2611.09892) on arxiv.org.
 - [Embo AI](https://x.com/danijar/status/2124911019562811820?a=yUNsM-08vGGh0sayG18&s=20): Building the brain of a humanoid workforce.
 - [OpenAI OpenWorks](https://openai.com/openworks/): Showing local and small businesses how to benefit and use AI.
 - [gemma.ai](https://gemma.ai/): Explore Gemma Open Models.
